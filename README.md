@@ -4,6 +4,8 @@ A free, static website that shows phone prices with search, brand filters and ph
 
 - **Bilingual, Hindi-first**: the site opens in Hindi by default; visitors tap the **English** button to switch (choice is remembered on their phone).
 - **Mobile-first**: 2-column grid on phones, big tap targets, works well on low-end devices.
+- **Company picker**: tap the ☰ **कंपनियाँ / Companies** button to open a slide-in list of brands (keeps the header small).
+- **Fast with big catalogs**: search is debounced, results load 24 at a time ("Load more" + auto-load on scroll), images are lazy-loaded, and off-screen cards are skipped during rendering. Comfortable into the thousands.
 
 ## Two ways to store prices — pick one
 
