@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PhonePrice</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1 id="site-title">PhonePrice</h1>
+      <p class="tagline">Live phone prices from our catalog</p>
+
+      <div class="search-row">
+        <input
+          type="search"
+          id="search-input"
+          class="search-input"
+          placeholder="Search phone name or brand..."
+          autocomplete="off"
+        >
+        <button id="refresh-btn" class="refresh-btn" title="Refresh prices">Refresh</button>
+      </div>
+
+      <div id="brand-chips" class="chips"></div>
+
+      <div class="toolbar">
+        <div class="result-count" id="result-count"></div>
+        <select id="sort-select" class="sort-select">
+          <option value="featured">Featured</option>
+          <option value="price-asc">Price: Low to High</option>
+          <option value="price-desc">Price: High to Low</option>
+          <option value="name-asc">Name A-Z</option>
+        </select>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <div id="status" class="status" role="status"></div>
+    <div id="grid" class="grid"></div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <span id="last-updated"></span>
+      <span id="mode-badge" class="mode-badge"></span>
+    </div>
+  </footer>
+
+  <script src="config.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

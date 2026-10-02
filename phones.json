@@ -1,0 +1,14 @@
+[
+  { "name": "iPhone 15 Pro", "brand": "Apple", "price": 129900, "stock": "In Stock", "image": "" },
+  { "name": "iPhone 14", "brand": "Apple", "price": 59900, "stock": "In Stock", "image": "" },
+  { "name": "Samsung Galaxy S24 Ultra", "brand": "Samsung", "price": 129999, "stock": "In Stock", "image": "" },
+  { "name": "Samsung Galaxy A54", "brand": "Samsung", "price": 28999, "stock": "In Stock", "image": "" },
+  { "name": "Google Pixel 8", "brand": "Google", "price": 75999, "stock": "Out of Stock", "image": "" },
+  { "name": "OnePlus 12", "brand": "OnePlus", "price": 64999, "stock": "In Stock", "image": "" },
+  { "name": "Xiaomi Redmi Note 13 Pro", "brand": "Xiaomi", "price": 23999, "stock": "In Stock", "image": "" },
+  { "name": "Nothing Phone (2)", "brand": "Nothing", "price": 44999, "stock": "Out of Stock", "image": "" },
+  { "name": "Vivo V30 Pro", "brand": "Vivo", "price": 42999, "stock": "In Stock", "image": "" },
+  { "name": "Oppo Reno 11", "brand": "Oppo", "price": 29999, "stock": "In Stock", "image": "" },
+  { "name": "Realme 12 Pro+", "brand": "Realme", "price": 31999, "stock": "In Stock", "image": "" },
+  { "name": "Asus ROG Phone 8", "brand": "Asus", "price": 94999, "stock": "Out of Stock", "image": "" }
+]
