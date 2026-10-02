@@ -1,14 +1,2704 @@
 [
-  { "name": "iPhone 15 Pro", "brand": "Apple", "price": 129900, "stock": "In Stock", "image": "" },
-  { "name": "iPhone 14", "brand": "Apple", "price": 59900, "stock": "In Stock", "image": "" },
-  { "name": "Samsung Galaxy S24 Ultra", "brand": "Samsung", "price": 129999, "stock": "In Stock", "image": "" },
-  { "name": "Samsung Galaxy A54", "brand": "Samsung", "price": 28999, "stock": "In Stock", "image": "" },
-  { "name": "Google Pixel 8", "brand": "Google", "price": 75999, "stock": "Out of Stock", "image": "" },
-  { "name": "OnePlus 12", "brand": "OnePlus", "price": 64999, "stock": "In Stock", "image": "" },
-  { "name": "Xiaomi Redmi Note 13 Pro", "brand": "Xiaomi", "price": 23999, "stock": "In Stock", "image": "" },
-  { "name": "Nothing Phone (2)", "brand": "Nothing", "price": 44999, "stock": "Out of Stock", "image": "" },
-  { "name": "Vivo V30 Pro", "brand": "Vivo", "price": 42999, "stock": "In Stock", "image": "" },
-  { "name": "Oppo Reno 11", "brand": "Oppo", "price": 29999, "stock": "In Stock", "image": "" },
-  { "name": "Realme 12 Pro+", "brand": "Realme", "price": 31999, "stock": "In Stock", "image": "" },
-  { "name": "Asus ROG Phone 8", "brand": "Asus", "price": 94999, "stock": "Out of Stock", "image": "" }
+  {
+    "name": "AI PLUS 2 4/64 4G",
+    "brand": "AI",
+    "price": 9100,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "AI PLUS 2 6/128 4G",
+    "brand": "AI",
+    "price": 11300,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "AI NOVA 2 4/64 5G",
+    "brand": "AI",
+    "price": 13100,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "AI NOVA 2 4/128 5G",
+    "brand": "AI",
+    "price": 13900,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "AI NOVA 2 6/128 5G",
+    "brand": "AI",
+    "price": 14500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "AI NOVA 2 NEO 4/64 5G",
+    "brand": "AI",
+    "price": 13500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "AI NOVA 2 NEO 4/128",
+    "brand": "AI",
+    "price": 14800,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "AI NOVA 2 PRO 6/128 5G",
+    "brand": "AI",
+    "price": 16800,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "AIR PODS 318 PLUS",
+    "brand": "Boat",
+    "price": 1130,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "AIR PODS DOLBY RAGA",
+    "brand": "Boat",
+    "price": 1280,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "AIR PODS PRIMO",
+    "brand": "Boat",
+    "price": 850,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "A29",
+    "brand": "G Five",
+    "price": 580,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "100 SS",
+    "brand": "HMD",
+    "price": 770,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "101 DS",
+    "brand": "HMD",
+    "price": 980,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "100 DS",
+    "brand": "HMD",
+    "price": 780,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "105 DS",
+    "brand": "HMD",
+    "price": 860,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "102 DS",
+    "brand": "HMD",
+    "price": 1010,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "VIBE 2 4/128",
+    "brand": "HMD",
+    "price": 12750,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "VIBE 2 6/128",
+    "brand": "HMD",
+    "price": 13950,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "H310",
+    "brand": "Hotline",
+    "price": 425,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "EDGE 6/128",
+    "brand": "Infinix",
+    "price": 20850,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "EDGE 8/128",
+    "brand": "Infinix",
+    "price": 22900,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "EDGE 8/256",
+    "brand": "Infinix",
+    "price": 24650,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "GT 30 PRO 12/256 WITH KIT",
+    "brand": "Infinix",
+    "price": 32400,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "HOT 70 PRO 6/128",
+    "brand": "Infinix",
+    "price": 19500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "HOT 70 PRO 8/128",
+    "brand": "Infinix",
+    "price": 22600,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "NOTE 60 PRO 8/128",
+    "brand": "Infinix",
+    "price": 28950,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "SMART 10 4/64",
+    "brand": "Infinix",
+    "price": 10050,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "SMART 20 4/64",
+    "brand": "Infinix",
+    "price": 10150,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "SMART 20 4/128",
+    "brand": "Infinix",
+    "price": 11750,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "AIRPOD 4 ANC",
+    "brand": "Apple",
+    "price": 16500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "iPhone 15 128 BLACK PACK",
+    "brand": "Apple",
+    "price": 60500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "iPhone 15 128 BLUE PACK",
+    "brand": "Apple",
+    "price": 61000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "iPhone 16 128 BLACK PACK",
+    "brand": "Apple",
+    "price": 70500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "iPhone 17 256 PACK",
+    "brand": "Apple",
+    "price": 90000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "iPhone 17 512 PACK",
+    "brand": "Apple",
+    "price": 105000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "iPhone 17 PRO 256 BLUE",
+    "brand": "Apple",
+    "price": 124000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "iPhone 17 PRO 256 ORANGE",
+    "brand": "Apple",
+    "price": 125500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "iPhone 17 PRO 256 SILVER",
+    "brand": "Apple",
+    "price": 126000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "iPhone 17 PRO 512 ORANGE",
+    "brand": "Apple",
+    "price": 141500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "iPhone 17 PRO 512 SILVER",
+    "brand": "Apple",
+    "price": 142600,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "iPhone 17 PRO MAX 256 ORANGE",
+    "brand": "Apple",
+    "price": 139000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "iPhone 17 PRO MAX 256 SILVER",
+    "brand": "Apple",
+    "price": 139000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "iPhone 17 PRO MAX 512 ORANGE",
+    "brand": "Apple",
+    "price": 160000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "iPhone 17 PRO MAX 512 SILVER",
+    "brand": "Apple",
+    "price": 161000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "iPhone 18 PRO 256 BLACK",
+    "brand": "Apple",
+    "price": 156000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "iPhone 18 PRO 256 BLUE",
+    "brand": "Apple",
+    "price": 156000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "iPhone 18 PRO 256 SILVER",
+    "brand": "Apple",
+    "price": 156000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "iPhone 18 PRO 256 BURGUNDY",
+    "brand": "Apple",
+    "price": 159000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "iPhone 18 PRO 512 BLACK",
+    "brand": "Apple",
+    "price": 178000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "iPhone 18 PRO 512 BURGUNDY",
+    "brand": "Apple",
+    "price": 185000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "iPhone 18 PRO MAX 256 SILVER",
+    "brand": "Apple",
+    "price": 174000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "iPhone 18 PRO MAX 256 BLUE",
+    "brand": "Apple",
+    "price": 174000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "iPhone 18 PRO MAX 256 BLACK",
+    "brand": "Apple",
+    "price": 174000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "iPhone 18 PRO MAX 256 BURGUNDY",
+    "brand": "Apple",
+    "price": 179000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "iPhone 18 PRO MAX 512 SILVER",
+    "brand": "Apple",
+    "price": 197500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "iPhone 18 PRO MAX 512 BLACK",
+    "brand": "Apple",
+    "price": 199000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "iPhone 18 PRO MAX 512 GLACIER",
+    "brand": "Apple",
+    "price": 199000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "iPhone 18 PRO MAX 512 BURGUNDY",
+    "brand": "Apple",
+    "price": 208000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "iPhone 15 128 BLACK",
+    "brand": "Apple",
+    "price": 56500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "iPhone 15 128 BLUE",
+    "brand": "Apple",
+    "price": 57200,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "iPhone 16 128 BLACK",
+    "brand": "Apple",
+    "price": 67000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "iPhone 17 256 BLACK",
+    "brand": "Apple",
+    "price": 85500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "iPhone 17 PRO 256 ORANGE",
+    "brand": "Apple",
+    "price": 121000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "iPhone 17 PRO 256 SILVER",
+    "brand": "Apple",
+    "price": 120000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "iPhone 17 PRO MAX 256 ORANGE",
+    "brand": "Apple",
+    "price": 133000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "iPhone 17 PRO MAX 256 BLUE",
+    "brand": "Apple",
+    "price": 133000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "iPhone 18 PRO MAX 512 USA ESIM BLACK",
+    "brand": "Apple",
+    "price": 185000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "iPhone 18 PRO MAX 512 USA ESIM BURGUNDY",
+    "brand": "Apple",
+    "price": 195000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "iPhone 12 PRO MAX 256",
+    "brand": "Apple",
+    "price": 55000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "15R 12/256 DARK/SILVER",
+    "brand": "iQOO",
+    "price": 53000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "15R 12/512 DARK/SILVER",
+    "brand": "iQOO",
+    "price": 60000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "NEO 10 8/256 WHITE",
+    "brand": "iQOO",
+    "price": 42000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "Z10 LITE 4/128",
+    "brand": "iQOO",
+    "price": 17800,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "Z10 LITE 4/64",
+    "brand": "iQOO",
+    "price": 15300,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "Z11 LITE 4/128",
+    "brand": "iQOO",
+    "price": 18300,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "Z11 LITE 6/128",
+    "brand": "iQOO",
+    "price": 20300,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "Z11 LITE 6/256",
+    "brand": "iQOO",
+    "price": 23300,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "Z11X 8/128",
+    "brand": "iQOO",
+    "price": 26000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "Z11X 8/256",
+    "brand": "iQOO",
+    "price": 28800,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "A100C 2/64",
+    "brand": "Itel",
+    "price": 7350,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "A100 3/64",
+    "brand": "Itel",
+    "price": 8250,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "A100 4/64",
+    "brand": "Itel",
+    "price": 9400,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "A300C 4/64",
+    "brand": "Itel",
+    "price": 9550,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "A100 PRO 3/64",
+    "brand": "Itel",
+    "price": 8300,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "A100 PRO 4/64",
+    "brand": "Itel",
+    "price": 9450,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "A100 PRO 4/64 WITH NAKEBAND",
+    "brand": "Itel",
+    "price": 9600,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "2165C",
+    "brand": "Itel",
+    "price": 800,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "2181",
+    "brand": "Itel",
+    "price": 865,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "5027 SLIM",
+    "brand": "Itel",
+    "price": 980,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "5095",
+    "brand": "Itel",
+    "price": 1410,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "5262",
+    "brand": "Itel",
+    "price": 1190,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "5330",
+    "brand": "Itel",
+    "price": 1275,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "ACE 3 HEERA",
+    "brand": "Itel",
+    "price": 740,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "ACE 3 POWER",
+    "brand": "Itel",
+    "price": 1030,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "ACE 3 SHINE",
+    "brand": "Itel",
+    "price": 780,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "ACE 4 SHINE",
+    "brand": "Itel",
+    "price": 785,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "ACE 2 HEERA",
+    "brand": "Itel",
+    "price": 745,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "CIRCLE 1",
+    "brand": "Itel",
+    "price": 890,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "5608",
+    "brand": "Itel",
+    "price": 1035,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "3010 KING SINGAL",
+    "brand": "Itel",
+    "price": 1090,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "P450",
+    "brand": "Itel",
+    "price": 1355,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "P451",
+    "brand": "Itel",
+    "price": 1285,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "6133",
+    "brand": "Itel",
+    "price": 1430,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "4520",
+    "brand": "Itel",
+    "price": 1230,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "V4",
+    "brand": "Jio",
+    "price": 695,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "A1",
+    "brand": "Jio",
+    "price": 1190,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "B2",
+    "brand": "Jio",
+    "price": 1210,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "JIO GREEN",
+    "brand": "Jio",
+    "price": 1780,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "PRIMA 2",
+    "brand": "Jio",
+    "price": 2550,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "A26",
+    "brand": "Kechaoda",
+    "price": 710,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "A27",
+    "brand": "Kechaoda",
+    "price": 710,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "K33",
+    "brand": "Kechaoda",
+    "price": 770,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "K115",
+    "brand": "Kechaoda",
+    "price": 815,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "HERO SHAKTI",
+    "brand": "Lava",
+    "price": 790,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "A1 JOSH ARMY",
+    "brand": "Lava",
+    "price": 855,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "A1 JOSH BOL",
+    "brand": "Lava",
+    "price": 855,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "A1 TEJAS",
+    "brand": "Lava",
+    "price": 955,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "A3 KING",
+    "brand": "Lava",
+    "price": 1020,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "A3 TORCH",
+    "brand": "Lava",
+    "price": 1115,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "A7 TORCH",
+    "brand": "Lava",
+    "price": 1355,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "GEM 2025",
+    "brand": "Lava",
+    "price": 1455,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "N2 LITE 3/64 4G",
+    "brand": "Lava",
+    "price": 8300,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "N2 4/64 5G",
+    "brand": "Lava",
+    "price": 12400,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "N4 LITE 3/32 4G",
+    "brand": "Lava",
+    "price": 7850,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "VIRAT V1 4/64 4G",
+    "brand": "Lava",
+    "price": 8900,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "VIRAT V1 4/64 5G",
+    "brand": "Lava",
+    "price": 12250,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "V1 PRO 6/128 5G",
+    "brand": "Lava",
+    "price": 13950,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "60 FUSION 12/256",
+    "brand": "Moto",
+    "price": 26800,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "60 PRO 12/256",
+    "brand": "Moto",
+    "price": 32750,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "70 FUSION 12/256",
+    "brand": "Moto",
+    "price": 32400,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "70 FUSION 8/128",
+    "brand": "Moto",
+    "price": 26800,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "EDGE 70 8/256",
+    "brand": "Moto",
+    "price": 28800,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "G06 POWER 4/64",
+    "brand": "Moto",
+    "price": 11650,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "G35 4/128",
+    "brand": "Moto",
+    "price": 14700,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "G37 4/64",
+    "brand": "Moto",
+    "price": 14250,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "G37 POWER 4/64",
+    "brand": "Moto",
+    "price": 14850,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "G37 POWER 4/128",
+    "brand": "Moto",
+    "price": 16150,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "G37 POWER 8/128",
+    "brand": "Moto",
+    "price": 18950,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "G45 8/128",
+    "brand": "Moto",
+    "price": 18200,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "G57 POWER 8/128",
+    "brand": "Moto",
+    "price": 19950,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "G67 POWER 8/128",
+    "brand": "Moto",
+    "price": 21250,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "G67 POWER 12/256",
+    "brand": "Moto",
+    "price": 23950,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "G96 8/128",
+    "brand": "Moto",
+    "price": 24800,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "M230",
+    "brand": "Muphone",
+    "price": 975,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "M230 PRO",
+    "brand": "Muphone",
+    "price": 970,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "N105 SS CLASSIC",
+    "brand": "Nokia",
+    "price": 980,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "N105 SS UPI",
+    "brand": "Nokia",
+    "price": 1060,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "2A 8/256",
+    "brand": "Nothing",
+    "price": 29400,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "3A LITE 8/128",
+    "brand": "Nothing",
+    "price": 26100,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "3A LITE 8/256",
+    "brand": "Nothing",
+    "price": 28500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "4A 8/128",
+    "brand": "Nothing",
+    "price": 33200,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "4A 8/256",
+    "brand": "Nothing",
+    "price": 35800,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "4A 12/256",
+    "brand": "Nothing",
+    "price": 38500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "4B 8/128",
+    "brand": "Nothing",
+    "price": 28600,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "4B 8/256",
+    "brand": "Nothing",
+    "price": 31700,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "CE4 LITE 8/128",
+    "brand": "OnePlus",
+    "price": 24000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "CE6 LITE 8/128",
+    "brand": "OnePlus",
+    "price": 25500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "CE6 LITE 8/256",
+    "brand": "OnePlus",
+    "price": 28500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "CE6 8/128",
+    "brand": "OnePlus",
+    "price": 31700,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "CE6 8/256",
+    "brand": "OnePlus",
+    "price": 36200,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "N6X 4/64",
+    "brand": "OnePlus",
+    "price": 17600,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "N6X 4/128",
+    "brand": "OnePlus",
+    "price": 19400,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "N6 4/128",
+    "brand": "OnePlus",
+    "price": 20500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "NORD 6 8/256",
+    "brand": "OnePlus",
+    "price": 42000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "13R 16/512",
+    "brand": "OnePlus",
+    "price": 48000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "A6C 4/64 4G ACT",
+    "brand": "Oppo",
+    "price": 13200,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "A6C 4/64 4G PACK",
+    "brand": "Oppo",
+    "price": 13600,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "A6C 4/128 4G PACK",
+    "brand": "Oppo",
+    "price": 15000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "A6X 4/64 4G ACT",
+    "brand": "Oppo",
+    "price": 13300,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "A6X 4/64 5G PACK",
+    "brand": "Oppo",
+    "price": 15500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "A6X 4/128 5G ACT",
+    "brand": "Oppo",
+    "price": 17450,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "A6X 4/128 5G PACK",
+    "brand": "Oppo",
+    "price": 17950,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "A6X 6/128 5G PACK",
+    "brand": "Oppo",
+    "price": 20700,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "A6S 4/128 5G PACK",
+    "brand": "Oppo",
+    "price": 19000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "F33 6/128 5G PACK",
+    "brand": "Oppo",
+    "price": 26100,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "F33 8/128 5G PACK",
+    "brand": "Oppo",
+    "price": 27800,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "F33 8/128 5G ACT",
+    "brand": "Oppo",
+    "price": 26800,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "F33 PRO 8/128 5G ACT",
+    "brand": "Oppo",
+    "price": 27100,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "F33 PRO 8/128 5G PACK",
+    "brand": "Oppo",
+    "price": 27800,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "F33 PRO 8/256 5G ACT",
+    "brand": "Oppo",
+    "price": 30500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "F33 PRO 8/256 5G PACK",
+    "brand": "Oppo",
+    "price": 31750,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "K14 6/128 5G PACK",
+    "brand": "Oppo",
+    "price": 21300,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "K14 6/256 5G PACK",
+    "brand": "Oppo",
+    "price": 23500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "K14X 4/64 5G ACT",
+    "brand": "Oppo",
+    "price": 15750,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "K14X 4/64 5G PACK",
+    "brand": "Oppo",
+    "price": 16050,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "K14X 4/128 5G PACK",
+    "brand": "Oppo",
+    "price": 17200,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "K14X 6/128 5G PACK",
+    "brand": "Oppo",
+    "price": 19950,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "K13 TURBO 8/256 5G",
+    "brand": "Oppo",
+    "price": 31200,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "K13 TURBO PRO 8/256",
+    "brand": "Oppo",
+    "price": 32200,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "K13 TURBO PRO 12/256",
+    "brand": "Oppo",
+    "price": 34200,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "RENO 15C 8/256 5G PACK",
+    "brand": "Oppo",
+    "price": 35200,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "RENO 15 8/256 5G PACK",
+    "brand": "Oppo",
+    "price": 41200,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "RENO 15 PRO 12/512 5G",
+    "brand": "Oppo",
+    "price": 53500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "RENO 16 12/256 5G ACT",
+    "brand": "Oppo",
+    "price": 49500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "RENO 16 8/256 5G PACK",
+    "brand": "Oppo",
+    "price": 49000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "RENO 16C 8/128 ACT",
+    "brand": "Oppo",
+    "price": 35000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "RENO 16C 8/128 PACK",
+    "brand": "Oppo",
+    "price": 35500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "RENO 16C 8/256 ACT",
+    "brand": "Oppo",
+    "price": 38000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "RENO 16C 8/256 AIR PACK",
+    "brand": "Oppo",
+    "price": 38500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "RENO 16C 12/256 5G PACK",
+    "brand": "Oppo",
+    "price": 43000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "C71 4/64 PACK",
+    "brand": "Poco",
+    "price": 10550,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "C71 6/128 PACK",
+    "brand": "Poco",
+    "price": 11850,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "C75 4/64 PACK",
+    "brand": "Poco",
+    "price": 13400,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "C81 4/64 ACT",
+    "brand": "Poco",
+    "price": 10700,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "C81 4/64 PACK",
+    "brand": "Poco",
+    "price": 10800,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "C81X 3/64 PACK",
+    "brand": "Poco",
+    "price": 9700,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "C85X 4/64 ACT",
+    "brand": "Poco",
+    "price": 12700,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "C85X 4/64 PACK",
+    "brand": "Poco",
+    "price": 12900,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "C85X 4/128 ACT",
+    "brand": "Poco",
+    "price": 14000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "C85X 4/128 PACK",
+    "brand": "Poco",
+    "price": 14200,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "C85 6/128 ACT",
+    "brand": "Poco",
+    "price": 15500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "M7 6/128 ACT",
+    "brand": "Poco",
+    "price": 15000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "M7 6/128 PACK",
+    "brand": "Poco",
+    "price": 16200,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "M7 8/128 PACK",
+    "brand": "Poco",
+    "price": 17200,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "M7 PLUS 4/128 PACK",
+    "brand": "Poco",
+    "price": 14800,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "M7 PLUS 6/128 PACK",
+    "brand": "Poco",
+    "price": 16500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "M8 6/128 PACK",
+    "brand": "Poco",
+    "price": 21500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "M8 POWER 6/128",
+    "brand": "Poco",
+    "price": 22500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "M8 POWER 8/128",
+    "brand": "Poco",
+    "price": 25500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "C100I 4/64 ACT",
+    "brand": "Realme",
+    "price": 12700,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "C100 I 4/64",
+    "brand": "Realme",
+    "price": 12800,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "C100X 4/64",
+    "brand": "Realme",
+    "price": 13300,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "C33 3/32",
+    "brand": "Realme",
+    "price": 10000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "C83 4/64",
+    "brand": "Realme",
+    "price": 15050,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "C83 4/128",
+    "brand": "Realme",
+    "price": 17500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "C83 6/128",
+    "brand": "Realme",
+    "price": 19800,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "R15X 6/128",
+    "brand": "Realme",
+    "price": 21600,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "R16X 6/256",
+    "brand": "Realme",
+    "price": 23800,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "R16T 6/128",
+    "brand": "Realme",
+    "price": 22700,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "R16T 8/128",
+    "brand": "Realme",
+    "price": 23900,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "R16 8/128",
+    "brand": "Realme",
+    "price": 27400,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "R16 8/256",
+    "brand": "Realme",
+    "price": 28800,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "R16 PRO 8/256",
+    "brand": "Realme",
+    "price": 34500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "R16 PRO 12/256",
+    "brand": "Realme",
+    "price": 36000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "P4 LITE 4/64 4G",
+    "brand": "Realme",
+    "price": 11850,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "P4 LITE 6/128 4G",
+    "brand": "Realme",
+    "price": 12850,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "P4 LITE 4/64 5G",
+    "brand": "Realme",
+    "price": 14850,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "P4 LITE 4/128 5G",
+    "brand": "Realme",
+    "price": 16850,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "P4 LITE 6/128 5G",
+    "brand": "Realme",
+    "price": 19200,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "P4 8/128 5G",
+    "brand": "Realme",
+    "price": 26500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "P4 8/256 5G",
+    "brand": "Realme",
+    "price": 27800,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "P4S 8/128 5G",
+    "brand": "Realme",
+    "price": 30800,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "P4R 4/64",
+    "brand": "Realme",
+    "price": 17100,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "P4R 4/128",
+    "brand": "Realme",
+    "price": 18350,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "P4R 6/128",
+    "brand": "Realme",
+    "price": 21350,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "P4X 6/128",
+    "brand": "Realme",
+    "price": 20800,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "P4X 8/128",
+    "brand": "Realme",
+    "price": 22600,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "P4 PRO 8/256",
+    "brand": "Realme",
+    "price": 30000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "P4 POWER 8/128",
+    "brand": "Realme",
+    "price": 28500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "NARZO 80 LITE 6/128 4G",
+    "brand": "Realme",
+    "price": 13600,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "NARZO 80 LITE 4/128 5G",
+    "brand": "Realme",
+    "price": 15800,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "NARZO 80 PRO 8/256 5G",
+    "brand": "Realme",
+    "price": 25500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "NARZO 100 LITE 4/64 5G",
+    "brand": "Realme",
+    "price": 14950,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "NARZO 100 LITE 4/128",
+    "brand": "Realme",
+    "price": 16000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "NARZO POWER 8/256 5G",
+    "brand": "Realme",
+    "price": 29000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "N90X 4/128",
+    "brand": "Realme",
+    "price": 17100,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "N90X 6/128",
+    "brand": "Realme",
+    "price": 18800,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "N100X 4/128",
+    "brand": "Realme",
+    "price": 17850,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "N100X 6/128",
+    "brand": "Realme",
+    "price": 19800,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "MI A4 4/64 PACK",
+    "brand": "Redmi",
+    "price": 13600,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "MI A7 3/64 ACT",
+    "brand": "Redmi",
+    "price": 10650,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "MI A7 3/64 PACK",
+    "brand": "Redmi",
+    "price": 10750,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "MI A7 PRO 4/64 4G ACT",
+    "brand": "Redmi",
+    "price": 11000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "MI A7 PRO 4/64 4G PACK",
+    "brand": "Redmi",
+    "price": 11150,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "MI A7 PRO 4/64 5G",
+    "brand": "Redmi",
+    "price": 13000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "MI A7 PRO 4/128 5G",
+    "brand": "Redmi",
+    "price": 14050,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "MI 15A 4/64 5G PACK",
+    "brand": "Redmi",
+    "price": 13850,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "MI 15A 4/64 5G ACT",
+    "brand": "Redmi",
+    "price": 13750,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "MI 15A 4/128 5G ACT",
+    "brand": "Redmi",
+    "price": 14800,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "MI 15A 4/128 5G PACK",
+    "brand": "Redmi",
+    "price": 14900,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "MI 15C 4/128 ACT",
+    "brand": "Redmi",
+    "price": 15300,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "MI 15C 4/128 PACK",
+    "brand": "Redmi",
+    "price": 15600,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "MI 15C 6/128 ACT",
+    "brand": "Redmi",
+    "price": 17700,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "MI 15C 8/128 ACT",
+    "brand": "Redmi",
+    "price": 17800,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "MI 15 8/128 ACT",
+    "brand": "Redmi",
+    "price": 20600,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "MI 15 8/256",
+    "brand": "Redmi",
+    "price": 24000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "MI 15SE 6/128",
+    "brand": "Redmi",
+    "price": 22600,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "MI 15SE 8/128",
+    "brand": "Redmi",
+    "price": 24650,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "MI NOTE 15 8/128",
+    "brand": "Redmi",
+    "price": 24600,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "MI NOTE 17 6/128 ACT",
+    "brand": "Redmi",
+    "price": 23100,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "MI NOTE 17 6/128 PACK",
+    "brand": "Redmi",
+    "price": 24100,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "MI NOTE 14 PRO 8/256",
+    "brand": "Redmi",
+    "price": 24400,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "MI NOTE 14 PRO PLUS 8/128",
+    "brand": "Redmi",
+    "price": 24400,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "MI NOTE 14 PRO PLUS 8/256 PACK",
+    "brand": "Redmi",
+    "price": 26400,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "MI NOTE 15 PRO PLUS 8/256",
+    "brand": "Redmi",
+    "price": 34600,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "A06 4/64 4G",
+    "brand": "Samsung",
+    "price": 10900,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "A06 4/64 5G",
+    "brand": "Samsung",
+    "price": 13150,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "A07 4/64 4G",
+    "brand": "Samsung",
+    "price": 11000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "A07 4/128 5G",
+    "brand": "Samsung",
+    "price": 15200,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "A17 6/128 5G",
+    "brand": "Samsung",
+    "price": 20100,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "A17 8/128 5G",
+    "brand": "Samsung",
+    "price": 22400,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "A36 8/128 5G",
+    "brand": "Samsung",
+    "price": 24200,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "A36 8/256 5G",
+    "brand": "Samsung",
+    "price": 28700,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "F06 4/128",
+    "brand": "Samsung",
+    "price": 14000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "F06 6/128",
+    "brand": "Samsung",
+    "price": 16000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "F07 4/64",
+    "brand": "Samsung",
+    "price": 11000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "F70E 4/128",
+    "brand": "Samsung",
+    "price": 14800,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "F70E 6/128",
+    "brand": "Samsung",
+    "price": 16800,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "F70 PRO 6/128",
+    "brand": "Samsung",
+    "price": 24100,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "M06 4/64",
+    "brand": "Samsung",
+    "price": 13100,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "M06 4/128",
+    "brand": "Samsung",
+    "price": 14000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "M07 4/64 4G",
+    "brand": "Samsung",
+    "price": 11050,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "M17 4/128",
+    "brand": "Samsung",
+    "price": 16800,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "M17E 6/128",
+    "brand": "Samsung",
+    "price": 17000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "M36 6/128",
+    "brand": "Samsung",
+    "price": 20300,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "M47 6/128",
+    "brand": "Samsung",
+    "price": 25000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "S25 12/128",
+    "brand": "Samsung",
+    "price": 58000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "S25 12/256",
+    "brand": "Samsung",
+    "price": 62000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "S25 ULTRA 12/256 PACK",
+    "brand": "Samsung",
+    "price": 86000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "S26 12/256 ACT",
+    "brand": "Samsung",
+    "price": 66000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "S26 12/256 PACK",
+    "brand": "Samsung",
+    "price": 71000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "S26 ULTRA 12/256 ACT",
+    "brand": "Samsung",
+    "price": 108000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "S26 ULTRA 12/256 PACK",
+    "brand": "Samsung",
+    "price": 116500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "S26 ULTRA 12/512 PACK",
+    "brand": "Samsung",
+    "price": 134000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "A9 4/64 WI-FI",
+    "brand": "Samsung",
+    "price": 15750,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "A11 PLUS 6/128 WI-FI",
+    "brand": "Samsung",
+    "price": 21300,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "A11 PLUS 6/128 CALLING",
+    "brand": "Samsung",
+    "price": 24200,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "GO 3 4/64",
+    "brand": "Tecno",
+    "price": 10200,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "GO 3 PRO 4/64",
+    "brand": "Tecno",
+    "price": 13800,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "GO 3 PRO 4/128",
+    "brand": "Tecno",
+    "price": 14800,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "CURVE 2 8/128",
+    "brand": "Tecno",
+    "price": 24000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "Y05 4/64 PACK",
+    "brand": "Vivo",
+    "price": 13550,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "Y11 4/64 ACT",
+    "brand": "Vivo",
+    "price": 15350,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "Y11 4/64 PACK",
+    "brand": "Vivo",
+    "price": 15750,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "Y11 4/128 PACK",
+    "brand": "Vivo",
+    "price": 18250,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "Y21 4/64 ACT",
+    "brand": "Vivo",
+    "price": 17100,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "Y21 4/64 PACK",
+    "brand": "Vivo",
+    "price": 17200,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "Y21 4/128 ACT",
+    "brand": "Vivo",
+    "price": 18800,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "Y21 4/128 PACK",
+    "brand": "Vivo",
+    "price": 19100,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "Y21 6/128 ACT",
+    "brand": "Vivo",
+    "price": 21700,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "Y21 6/128 PACK",
+    "brand": "Vivo",
+    "price": 22900,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "Y31 4/128 PACK",
+    "brand": "Vivo",
+    "price": 22900,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "Y51 PRO 8/128 ACT",
+    "brand": "Vivo",
+    "price": 25000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "Y51 PRO 8/128 PACK",
+    "brand": "Vivo",
+    "price": 27200,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "Y51 PRO 8/256 ACT",
+    "brand": "Vivo",
+    "price": 28800,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "Y51 PRO 8/256 PACK",
+    "brand": "Vivo",
+    "price": 31000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "Y400 8/128 PACK",
+    "brand": "Vivo",
+    "price": 28500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "T4X 6/128",
+    "brand": "Vivo",
+    "price": 23000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "T4X 8/256",
+    "brand": "Vivo",
+    "price": 26700,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "T4 LITE 4/64",
+    "brand": "Vivo",
+    "price": 15650,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "T4 LITE 4/128",
+    "brand": "Vivo",
+    "price": 17300,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "T4 LITE 6/128",
+    "brand": "Vivo",
+    "price": 20500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "T4R 12/256",
+    "brand": "Vivo",
+    "price": 32350,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "T4 8/128",
+    "brand": "Vivo",
+    "price": 29500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "T4 8/256",
+    "brand": "Vivo",
+    "price": 31000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "T5 LITE 4/64",
+    "brand": "Vivo",
+    "price": 17300,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "T5 LITE 4/128",
+    "brand": "Vivo",
+    "price": 19200,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "T5 LITE 6/128",
+    "brand": "Vivo",
+    "price": 21500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "T5 LITE 6/256",
+    "brand": "Vivo",
+    "price": 24500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "T5X 6/128",
+    "brand": "Vivo",
+    "price": 24700,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "T5X 8/128",
+    "brand": "Vivo",
+    "price": 27000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "T5X 8/256",
+    "brand": "Vivo",
+    "price": 29300,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "T5 PRO 8/128",
+    "brand": "Vivo",
+    "price": 33000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "T5 PRO 8/256",
+    "brand": "Vivo",
+    "price": 38500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "V70 FE 8/128 ACT",
+    "brand": "Vivo",
+    "price": 31600,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "V70 FE 8/128 PACK",
+    "brand": "Vivo",
+    "price": 33100,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "V70 FE 8/256 PACK",
+    "brand": "Vivo",
+    "price": 37300,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "V70 FE 12/256 PACK",
+    "brand": "Vivo",
+    "price": 40600,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "V70 FE 12/256 ACT",
+    "brand": "Vivo",
+    "price": 38000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "V70 ELITE 8/256 ACT",
+    "brand": "Vivo",
+    "price": 47000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "V70 8/256 ACT",
+    "brand": "Vivo",
+    "price": 44500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "S2 8/128 ACT",
+    "brand": "Vivo",
+    "price": 31000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "S2 8/128 PACK",
+    "brand": "Vivo",
+    "price": 33100,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "S2 8/256 ACT",
+    "brand": "Vivo",
+    "price": 35000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "S2 8/256 PACK",
+    "brand": "Vivo",
+    "price": 38700,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "X300 FE 8/256 PACK",
+    "brand": "Vivo",
+    "price": 61500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "X300 FE 12/256 ACT",
+    "brand": "Vivo",
+    "price": 64500,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "X300 FE 12/256 PACK",
+    "brand": "Vivo",
+    "price": 68000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "X300 FE 12/512 ACT",
+    "brand": "Vivo",
+    "price": 72000,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "F30 4/64",
+    "brand": "Zeno",
+    "price": 12150,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "F30 4/128",
+    "brand": "Zeno",
+    "price": 13150,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "X50 6/128",
+    "brand": "Zeno",
+    "price": 14100,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "Nothing 65W USB",
+    "brand": "Accessories",
+    "price": 600,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "Samsung 25W USB",
+    "brand": "Accessories",
+    "price": 525,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "Samsung 25W USB WITH CABLE",
+    "brand": "Accessories",
+    "price": 675,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "Samsung 45W USB",
+    "brand": "Accessories",
+    "price": 925,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "Samsung 45W USB WITH CABLE",
+    "brand": "Accessories",
+    "price": 1125,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "Samsung USB TO TYPE-C",
+    "brand": "Accessories",
+    "price": 275,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "Samsung TYPE-C TO TYPE-C",
+    "brand": "Accessories",
+    "price": 275,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "Apple USB TO LIGHTNING CABLE",
+    "brand": "Accessories",
+    "price": 575,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "Apple USB TO TYPE-C CABLE",
+    "brand": "Accessories",
+    "price": 600,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "Apple 20W USB CHARGER",
+    "brand": "Accessories",
+    "price": 750,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "OnePlus 3R",
+    "brand": "Accessories",
+    "price": 1550,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "Redmi 10000 MAH",
+    "brand": "Accessories",
+    "price": 1130,
+    "stock": "In Stock",
+    "image": ""
+  },
+  {
+    "name": "Redmi 20000 MAH",
+    "brand": "Accessories",
+    "price": 1830,
+    "stock": "In Stock",
+    "image": ""
+  }
 ]
