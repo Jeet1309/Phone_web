@@ -1,4 +1,6 @@
 const CFG = window.SITE_CONFIG || {};
+const I18N = window.I18N || {};
+const I18N_HELPERS = window.I18N_HELPERS || {};
 
 const DEMO_PHONES = [
   { name: "iPhone 15 Pro", brand: "Apple", price: 129900, stock: "In Stock", image: "" },
@@ -15,27 +17,25 @@ const DEMO_PHONES = [
   { name: "Asus ROG Phone 8", brand: "Asus", price: 94999, stock: "Out of Stock", image: "" }
 ];
 
-const PLACEHOLDER_SVG =
-  "data:image/svg+xml;utf8," +
-  encodeURIComponent(
-    '<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400">' +
-      '<rect width="400" height="400" fill="#eef1f6"/>' +
-      '<text x="200" y="200" font-size="140" text-anchor="middle" dominant-baseline="central">📱</text>' +
-    "</svg>"
-  );
-
 const state = {
   phones: [],
   filtered: [],
   query: "",
   activeBrand: "All",
-  sort: "featured"
+  sort: "featured",
+  lang: "hi"
 };
+
+try {
+  const saved = localStorage.getItem("phoneweb_lang");
+  if (saved && I18N[saved]) state.lang = saved;
+} catch (e) {}
 
 const el = {
   title: document.getElementById("site-title"),
   search: document.getElementById("search-input"),
   refresh: document.getElementById("refresh-btn"),
+  langBtn: document.getElementById("lang-btn"),
   chips: document.getElementById("brand-chips"),
   sort: document.getElementById("sort-select"),
   count: document.getElementById("result-count"),
@@ -49,6 +49,10 @@ const isLiveMode = Boolean(
   (CFG.DATA_SOURCE === "sheets" && CFG.SHEET_ID && CFG.API_KEY) ||
   (CFG.DATA_SOURCE !== "sheets" && CFG.JSON_URL)
 );
+
+function t(key) {
+  return (I18N[state.lang] && I18N[state.lang][key]) || I18N.en[key] || key;
+}
 
 function setStatus(text, type) {
   if (!text) {
@@ -76,6 +80,26 @@ function handleImageError(img) {
   img.remove();
 }
 
+function applyLang() {
+  document.documentElement.lang = state.lang;
+  for (const node of document.querySelectorAll("[data-i18n]")) {
+    node.textContent = t(node.dataset.i18n);
+  }
+  el.search.placeholder = t("searchPlaceholder");
+  el.langBtn.textContent = t("langToggle");
+  const sortOpts = {
+    featured: t("sortFeatured"),
+    "price-asc": t("sortPriceAsc"),
+    "price-desc": t("sortPriceDesc"),
+    "name-asc": t("sortNameAsc")
+  };
+  for (const opt of el.sort.options) {
+    opt.textContent = sortOpts[opt.value] || opt.value;
+  }
+  renderChips();
+  render();
+}
+
 function render() {
   el.title.textContent = CFG.SITE_TITLE || "PhonePrice";
   document.title = CFG.SITE_TITLE || "PhonePrice";
@@ -87,14 +111,14 @@ function render() {
     const empty = document.createElement("div");
     empty.className = "empty-state";
     empty.textContent = state.query || state.activeBrand !== "All"
-      ? "No phones match your search."
-      : "No phones in the catalog yet.";
+      ? t("noMatch")
+      : t("empty");
     el.grid.appendChild(empty);
-    el.count.textContent = "0 phones";
+    el.count.textContent = I18N_HELPERS.count(0, state.lang);
     return;
   }
 
-  el.count.textContent = list.length + (list.length === 1 ? " phone" : " phones");
+  el.count.textContent = I18N_HELPERS.count(list.length, state.lang);
 
   for (const phone of list) {
     const card = document.createElement("article");
@@ -106,7 +130,7 @@ function render() {
     if (phone.image) {
       const img = document.createElement("img");
       img.src = phone.image;
-      img.alt = phone.name + " photo";
+      img.alt = (phone.name || "") + " photo";
       img.loading = "lazy";
       img.onerror = () => handleImageError(img);
       media.appendChild(img);
@@ -126,7 +150,7 @@ function render() {
 
     const name = document.createElement("div");
     name.className = "card-name";
-    name.textContent = phone.name || "Unnamed phone";
+    name.textContent = phone.name || "—";
 
     const price = document.createElement("div");
     price.className = "card-price";
@@ -134,7 +158,7 @@ function render() {
 
     const stock = document.createElement("div");
     stock.className = "card-stock " + (/out/i.test(phone.stock) ? "out" : "in");
-    stock.textContent = phone.stock || "In Stock";
+    stock.textContent = I18N_HELPERS.badge(phone.stock, state.lang);
 
     body.appendChild(name);
     body.appendChild(price);
@@ -180,7 +204,7 @@ function applyFilters() {
 }
 
 function renderChips() {
-  const brands = ["All"];
+  const brands = [t("all")];
   for (const p of state.phones) {
     const b = (p.brand || "").trim();
     if (b && !brands.includes(b)) brands.push(b);
@@ -227,7 +251,7 @@ function parseRows(rows) {
 async function fetchFromJson() {
   const res = await fetch(CFG.JSON_URL);
   if (!res.ok) {
-    throw new Error("JSON fetch returned " + res.status);
+    throw new Error("HTTP " + res.status);
   }
   return await res.json();
 }
@@ -243,7 +267,7 @@ async function fetchFromSheet() {
 
   const res = await fetch(url);
   if (!res.ok) {
-    throw new Error("Google Sheets returned " + res.status);
+    throw new Error("HTTP " + res.status);
   }
   const data = await res.json();
   return parseRows(data.values || []);
@@ -252,33 +276,33 @@ async function fetchFromSheet() {
 async function load() {
   if (!isLiveMode) {
     state.phones = DEMO_PHONES.slice();
-    el.modeBadge.textContent = "Demo data — add a JSON_URL or Sheet ID & API key in config.js";
+    el.modeBadge.textContent = t("demo");
     el.modeBadge.className = "mode-badge demo";
-    setStatus("Showing sample catalog. Set up your data source in config.js to go live.", "info");
+    setStatus(t("demoMsg"), "info");
   } else {
     const source = CFG.DATA_SOURCE === "sheets" ? "Google Sheet" : "JSON";
-    el.modeBadge.textContent = "Live prices (" + source + ")";
+    el.modeBadge.textContent = t("live");
     el.modeBadge.className = "mode-badge live";
-    setStatus("Loading prices...", "loading");
+    setStatus(t("loading"), "loading");
     try {
       const phones = CFG.DATA_SOURCE === "sheets"
         ? await fetchFromSheet()
         : await fetchFromJson();
       if (!phones || !phones.length) {
-        setStatus("No phones found in the " + source + ". Add some entries.", "info");
+        setStatus(t("emptyMsg"), "info");
       } else {
         setStatus("", "");
       }
       state.phones = Array.isArray(phones) ? phones : [];
     } catch (err) {
-      setStatus("Could not load prices: " + err.message + ". Check your " + source + " configuration.", "error");
+      setStatus(t("errMsg") + " " + err.message, "error");
       state.phones = [];
     }
   }
 
   renderChips();
   render();
-  el.lastUpdated.textContent = "Updated " + new Date().toLocaleString();
+  el.lastUpdated.textContent = t("updated") + " " + new Date().toLocaleString();
 }
 
 el.search.addEventListener("input", () => {
@@ -292,12 +316,21 @@ el.sort.addEventListener("change", () => {
 });
 
 el.refresh.addEventListener("click", () => {
-  setStatus("Refreshing...", "loading");
+  setStatus(t("loading"), "loading");
   load();
+});
+
+el.langBtn.addEventListener("click", () => {
+  state.lang = state.lang === "hi" ? "en" : "hi";
+  try {
+    localStorage.setItem("phoneweb_lang", state.lang);
+  } catch (e) {}
+  applyLang();
 });
 
 setInterval(() => {
   if (isLiveMode) load();
 }, 5 * 60 * 1000);
 
+applyLang();
 load();

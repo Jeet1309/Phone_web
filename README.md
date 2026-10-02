@@ -2,6 +2,9 @@
 
 A free, static website that shows phone prices with search, brand filters and photos. Prices come from a data source only you (the admin) can edit. Anyone with the website link can view and search, but nobody can change prices.
 
+- **Bilingual, Hindi-first**: the site opens in Hindi by default; visitors tap the **English** button to switch (choice is remembered on their phone).
+- **Mobile-first**: 2-column grid on phones, big tap targets, works well on low-end devices.
+
 ## Two ways to store prices — pick one
 
 ### Option A — JSON file (simplest, recommended if you use GitHub)
