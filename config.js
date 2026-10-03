@@ -4,6 +4,7 @@ window.SITE_CONFIG = {
   DATA_SOURCE: "json",
   JSON_URL: "phones.json",
   IMAGES_DIR: "image/",
+  MANIFEST_URL: "image-manifest.json",
   REPO: "Jeet1309/Phone_web",
   REPO_BRANCH: "main",
   SHEET_ID: "",

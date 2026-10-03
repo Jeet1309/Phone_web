@@ -38,6 +38,14 @@ python optimize-images.py
 It resizes each image to fit within 700×700 and saves it as a compressed JPEG
 (~20–30 KB), overwriting the original. Run it whenever you add new photos.
 
+The site reads `image-manifest.json` (a list of all images) so it scales without
+hitting GitHub API limits. That file is **rebuilt automatically by GitHub Actions**
+when you push changes under `image/`. If you ever need to rebuild it manually:
+
+```
+python build-manifest.py
+```
+
 ## Matching rules (forgiving)
 
 - Folder names are matched to the product by **brand + product name**, ignoring

@@ -134,7 +134,31 @@ function productKey(phone) {
   return normKey(phone.brand) + "|" + normKey(phone.name);
 }
 
+function mapFromPaths(paths) {
+  const map = {};
+  for (const p of paths) {
+    if (!/\.(jpe?g|png|webp|avif|gif)$/i.test(p)) continue;
+    const parts = String(p).split("/");
+    if (parts.length < 4) continue;
+    if (parts[0] !== "image" && parts[0] !== "images") continue;
+    const key = normKey(parts[1]) + "|" + normKey(parts[2]);
+    (map[key] = map[key] || []).push(p);
+  }
+  for (const k in map) {
+    map[k].sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
+  }
+  return map;
+}
+
 async function loadImageTree() {
+  try {
+    const res = await fetch(CFG.MANIFEST_URL || "image-manifest.json", { cache: "no-store" });
+    if (res.ok) {
+      const list = await res.json();
+      if (Array.isArray(list) && list.length) return mapFromPaths(list);
+    }
+  } catch (e) {}
+
   const repo = CFG.REPO;
   if (!repo) return {};
   const branch = CFG.REPO_BRANCH || "main";
@@ -142,20 +166,8 @@ async function loadImageTree() {
   const res = await fetch(url);
   if (!res.ok) throw new Error("tree " + res.status);
   const data = await res.json();
-  const map = {};
-  for (const node of (data.tree || [])) {
-    if (node.type !== "blob") continue;
-    const parts = node.path.split("/");
-    if (parts.length < 4) continue;
-    if (parts[0] !== "image" && parts[0] !== "images") continue;
-    if (!/\.(jpe?g|png|webp|avif|gif)$/i.test(parts[parts.length - 1])) continue;
-    const key = normKey(parts[1]) + "|" + normKey(parts[2]);
-    (map[key] = map[key] || []).push(node.path);
-  }
-  for (const k in map) {
-    map[k].sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
-  }
-  return map;
+  const paths = (data.tree || []).filter(n => n.type === "blob").map(n => n.path);
+  return mapFromPaths(paths);
 }
 
 async function getImageTree(force) {
