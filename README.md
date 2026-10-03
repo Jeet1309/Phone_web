@@ -47,18 +47,30 @@ A list of objects. All fields optional except keeping the structure:
     "brand": "Apple",
     "price": 129900,
     "stock": "In Stock",
-    "image": "https://example.com/iphone.jpg"
+    "image": "images/iphone-15-pro.jpg",
+    "link": "https://wa.me/919157757157?text=iPhone%2015%20Pro"
   }
 ]
 ```
 
 - `price` should be a number.
 - `stock`: `In Stock` or `Out of Stock` (anything with "out" shows as Out of Stock).
-- `image`: leave empty (`""`) to show a phone placeholder. Use any public image link (GSMArena, manufacturer sites, Imgur, Cloudinary...).
+- `image`: leave empty (`""`) to show a phone placeholder.
+- `link`: optional. When set, **tapping the product image opens this link** in a new tab (e.g. a WhatsApp order link, product page, or the photo itself). If omitted, the image links to the image URL; if there is no image either, the card is not clickable.
+
+### Where to host your images (important)
+
+**Put your images in this repo** in an `images/` folder and reference them with a relative path, e.g. `"image": "images/iphone-15-pro.jpg"`.
+
+- ✅ **Best**: free, reliable, same-origin with the site (no hotlink blocking), versioned with your data.
+- Optimize first: resize to ~700px wide and compress (JPEG/WebP ~80%). ~100–200 KB per image keeps the repo small (a few hundred images = well under 100 MB) and loads fast on mobile data.
+- ⚠️ External hotlinks (GSMArena, etc.) work but break over time — use only as a fallback.
+- ❌ **Do not use Google Drive**: it is not an image CDN. `uc?export=view` links get rate-limited ("too many requests"), break, and load slowly.
+- For thousands of large images, use a real image CDN (Cloudinary free tier, Cloudflare R2, or jsDelivr over the repo).
 
 ## Google Sheet option (only if you pick Option B)
 
-1. Create a Google Sheet with headers in row 1: `Name | Brand | Price | ImageURL | Stock`.
+1. Create a Google Sheet with headers in row 1: `Name | Brand | Price | ImageURL | Stock | Link`.
 2. Copy the Sheet ID from the URL (the long text between `/d/` and `/edit`).
 3. https://console.cloud.google.com/ → project → **APIs & Services** → enable **Google Sheets API**.
 4. **Credentials** → **Create credentials** → **API key** → copy it. Optionally restrict the key to the Sheets API.

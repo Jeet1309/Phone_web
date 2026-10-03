@@ -5,5 +5,5 @@ window.SITE_CONFIG = {
   JSON_URL: "phones.json",
   SHEET_ID: "",
   API_KEY: "",
-  SHEET_RANGE: "Sheet1!A:E"
+  SHEET_RANGE: "Sheet1!A:F"
 };

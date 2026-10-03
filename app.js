@@ -101,6 +101,18 @@ function buildCard(phone) {
   const media = document.createElement("div");
   media.className = "card-media";
 
+  const href = String(phone.link || phone.image || "").trim();
+  const hit = document.createElement(href ? "a" : "div");
+  if (href) {
+    hit.className = "media-link";
+    hit.href = href;
+    hit.target = "_blank";
+    hit.rel = "noopener noreferrer";
+    hit.setAttribute("aria-label", (phone.name || "") + " \u2014 open link");
+  } else {
+    hit.className = "media-plain";
+  }
+
   if (phone.image) {
     const img = document.createElement("img");
     img.src = phone.image;
@@ -114,9 +126,19 @@ function buildCard(phone) {
       const ph = placeholderNode();
       if (img.parentNode) img.parentNode.replaceChild(ph, img);
     };
-    media.appendChild(img);
+    hit.appendChild(img);
   } else {
-    media.appendChild(placeholderNode());
+    hit.appendChild(placeholderNode());
+  }
+
+  media.appendChild(hit);
+
+  if (href) {
+    const cue = document.createElement("span");
+    cue.className = "media-cue";
+    cue.textContent = "\u2197";
+    cue.setAttribute("aria-hidden", "true");
+    media.appendChild(cue);
   }
 
   if (phone.brand) {
@@ -347,7 +369,8 @@ function parseRows(rows) {
     brand: headers.indexOf("brand"),
     price: headers.indexOf("price"),
     image: headers.indexOf("imageurl") > -1 ? headers.indexOf("imageurl") : headers.indexOf("image"),
-    stock: headers.indexOf("stock")
+    stock: headers.indexOf("stock"),
+    link: headers.indexOf("link") > -1 ? headers.indexOf("link") : headers.indexOf("url")
   };
 
   return rows.slice(1)
@@ -357,7 +380,8 @@ function parseRows(rows) {
       brand: col.brand > -1 ? String(r[col.brand] || "").trim() : "",
       price: col.price > -1 ? r[col.price] : null,
       image: col.image > -1 ? String(r[col.image] || "").trim() : "",
-      stock: col.stock > -1 ? String(r[col.stock] || "").trim() : ""
+      stock: col.stock > -1 ? String(r[col.stock] || "").trim() : "",
+      link: col.link > -1 ? String(r[col.link] || "").trim() : ""
     }))
     .filter(p => p.name || p.brand || p.price !== null);
 }
