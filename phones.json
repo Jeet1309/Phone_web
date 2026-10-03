@@ -5,2701 +5,3087 @@
     "price": 11300,
     "stock": "In Stock",
     "image": "",
-    "link": "https://wa.me/p/6834349059921209/919975938036"
+    "link": "https://wa.me/p/6834349059921209/919975938036",
+    "slug": "ai-ai-plus-2-6-128-4g"
   },
   {
     "name": "AI PLUS 2 4/128 4G",
     "brand": "AI",
     "price": 10800,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "ai-ai-plus-2-4-128-4g"
   },
   {
     "name": "AI NOVA 2 4/64 5G",
     "brand": "AI",
     "price": 13100,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "ai-ai-nova-2-4-64-5g"
   },
   {
     "name": "AI NOVA 2 4/128 5G",
     "brand": "AI",
     "price": 13900,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "ai-ai-nova-2-4-128-5g"
   },
   {
     "name": "AI NOVA 2 6/128 5G",
     "brand": "AI",
     "price": 14500,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "ai-ai-nova-2-6-128-5g"
   },
   {
     "name": "AI NOVA 2 NEO 4/64 5G",
     "brand": "AI",
     "price": 13500,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "ai-ai-nova-2-neo-4-64-5g"
   },
   {
     "name": "AI NOVA 2 NEO 4/128",
     "brand": "AI",
     "price": 14800,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "ai-ai-nova-2-neo-4-128"
   },
   {
     "name": "AI NOVA 2 PRO 6/128 5G",
     "brand": "AI",
     "price": 16800,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "ai-ai-nova-2-pro-6-128-5g"
   },
   {
     "name": "AIR PODS 318 PLUS",
     "brand": "Boat",
     "price": 1130,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "boat-air-pods-318-plus"
   },
   {
     "name": "AIR PODS DOLBY RAGA",
     "brand": "Boat",
     "price": 1280,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "boat-air-pods-dolby-raga"
   },
   {
     "name": "AIR PODS PRIMO",
     "brand": "Boat",
     "price": 850,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "boat-air-pods-primo"
   },
   {
     "name": "A29",
     "brand": "G Five",
     "price": 580,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "g-five-a29"
   },
   {
     "name": "100 SS",
     "brand": "HMD",
     "price": 770,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "hmd-100-ss"
   },
   {
     "name": "101 DS",
     "brand": "HMD",
     "price": 980,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "hmd-101-ds"
   },
   {
     "name": "100 DS",
     "brand": "HMD",
     "price": 780,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "hmd-100-ds"
   },
   {
     "name": "105 DS",
     "brand": "HMD",
     "price": 860,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "hmd-105-ds"
   },
   {
     "name": "102 DS",
     "brand": "HMD",
     "price": 1010,
     "stock": "In Stock",
-    "image": "https://m.media-amazon.com/images/I/315C5aVWEcL._SY445_SX342_QL70_ML2_.jpg"
+    "image": "https://m.media-amazon.com/images/I/315C5aVWEcL._SY445_SX342_QL70_ML2_.jpg",
+    "slug": "hmd-102-ds"
   },
   {
     "name": "VIBE 2 4/128",
     "brand": "HMD",
     "price": 12750,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "hmd-vibe-2-4-128"
   },
   {
     "name": "VIBE 2 6/128",
     "brand": "HMD",
     "price": 13950,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "hmd-vibe-2-6-128"
   },
   {
     "name": "H310",
     "brand": "Hotline",
     "price": 425,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "hotline-h310"
   },
   {
     "name": "EDGE 6/128",
     "brand": "Infinix",
     "price": 20850,
     "stock": "In Stock",
-    "image": "https://www.infinixmobility.com/fileadmin/assets/v/hot/hot30i/nav/nav.png"
+    "image": "https://www.infinixmobility.com/fileadmin/assets/v/hot/hot30i/nav/nav.png",
+    "slug": "infinix-edge-6-128"
   },
   {
     "name": "EDGE 8/128",
     "brand": "Infinix",
     "price": 22900,
     "stock": "In Stock",
-    "image": "https://www.infinixmobility.com/fileadmin/assets/v/hot/hot30i/nav/nav.png"
+    "image": "https://www.infinixmobility.com/fileadmin/assets/v/hot/hot30i/nav/nav.png",
+    "slug": "infinix-edge-8-128"
   },
   {
     "name": "EDGE 8/256",
     "brand": "Infinix",
     "price": 24650,
     "stock": "In Stock",
-    "image": "https://www.infinixmobility.com/fileadmin/assets/v/hot/hot30i/nav/nav.png"
+    "image": "https://www.infinixmobility.com/fileadmin/assets/v/hot/hot30i/nav/nav.png",
+    "slug": "infinix-edge-8-256"
   },
   {
     "name": "GT 30 PRO 12/256 WITH KIT",
     "brand": "Infinix",
     "price": 32400,
     "stock": "In Stock",
-    "image": "https://i.gadgets360cdn.com/large/infinix_gt_30_pro_design_layers_gadgets_360_1762168070296.jpg"
+    "image": "https://i.gadgets360cdn.com/large/infinix_gt_30_pro_design_layers_gadgets_360_1762168070296.jpg",
+    "slug": "infinix-gt-30-pro-12-256-with-kit"
   },
   {
     "name": "HOT 70 PRO 6/128",
     "brand": "Infinix",
     "price": 19500,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/09/infinix-hot-70-pro-india-price-sale-date/inline/-1200/gsmarena_003.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/09/infinix-hot-70-pro-india-price-sale-date/inline/-1200/gsmarena_003.jpg",
+    "slug": "infinix-hot-70-pro-6-128"
   },
   {
     "name": "HOT 70 PRO 8/128",
     "brand": "Infinix",
     "price": 22600,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/09/infinix-hot-70-pro-india-price-sale-date/inline/-1200/gsmarena_003.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/09/infinix-hot-70-pro-india-price-sale-date/inline/-1200/gsmarena_003.jpg",
+    "slug": "infinix-hot-70-pro-8-128"
   },
   {
     "name": "NOTE 60 PRO 8/128",
     "brand": "Infinix",
     "price": 28950,
     "stock": "In Stock",
-    "image": "https://www.infinixmobility.com/fileadmin/assets/v/hot/hot30i/nav/nav.png"
+    "image": "https://www.infinixmobility.com/fileadmin/assets/v/hot/hot30i/nav/nav.png",
+    "slug": "infinix-note-60-pro-8-128"
   },
   {
     "name": "SMART 10 4/64",
     "brand": "Infinix",
     "price": 10050,
     "stock": "In Stock",
-    "image": "https://www.infinixmobility.com/fileadmin/assets/v/hot/hot30i/nav/nav.png"
+    "image": "https://www.infinixmobility.com/fileadmin/assets/v/hot/hot30i/nav/nav.png",
+    "slug": "infinix-smart-10-4-64"
   },
   {
     "name": "SMART 20 4/64",
     "brand": "Infinix",
     "price": 10150,
     "stock": "In Stock",
-    "image": "https://www.infinixmobility.com/fileadmin/assets/v/hot/hot30i/nav/nav.png"
+    "image": "https://www.infinixmobility.com/fileadmin/assets/v/hot/hot30i/nav/nav.png",
+    "slug": "infinix-smart-20-4-64"
   },
   {
     "name": "SMART 20 4/128",
     "brand": "Infinix",
     "price": 11750,
     "stock": "In Stock",
-    "image": "https://www.infinixmobility.com/fileadmin/assets/v/hot/hot30i/nav/nav.png"
+    "image": "https://www.infinixmobility.com/fileadmin/assets/v/hot/hot30i/nav/nav.png",
+    "slug": "infinix-smart-20-4-128"
   },
   {
     "name": "AIRPOD 4 ANC",
     "brand": "Apple",
     "price": 16500,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-airpod-4-anc"
   },
   {
     "name": "iPhone 15 128 BLACK PACK",
     "brand": "Apple",
     "price": 60500,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-iphone-15-128-black-pack"
   },
   {
     "name": "iPhone 15 128 BLUE PACK",
     "brand": "Apple",
     "price": 61000,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-iphone-15-128-blue-pack"
   },
   {
     "name": "iPhone 16 128 BLACK PACK",
     "brand": "Apple",
     "price": 70500,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-iphone-16-128-black-pack"
   },
   {
     "name": "iPhone 17 256 PACK",
     "brand": "Apple",
     "price": 90000,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-iphone-17-256-pack"
   },
   {
     "name": "iPhone 17 512 PACK",
     "brand": "Apple",
     "price": 105000,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-iphone-17-512-pack"
   },
   {
     "name": "iPhone 17 PRO 256 BLUE",
     "brand": "Apple",
     "price": 124000,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-iphone-17-pro-256-blue"
   },
   {
     "name": "iPhone 17 PRO 256 ORANGE",
     "brand": "Apple",
     "price": 125500,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-iphone-17-pro-256-orange"
   },
   {
     "name": "iPhone 17 PRO 256 SILVER",
     "brand": "Apple",
     "price": 126000,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-iphone-17-pro-256-silver"
   },
   {
     "name": "iPhone 17 PRO 512 ORANGE",
     "brand": "Apple",
     "price": 141500,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-iphone-17-pro-512-orange"
   },
   {
     "name": "iPhone 17 PRO 512 SILVER",
     "brand": "Apple",
     "price": 142600,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-iphone-17-pro-512-silver"
   },
   {
     "name": "iPhone 17 PRO MAX 256 ORANGE",
     "brand": "Apple",
     "price": 139000,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-iphone-17-pro-max-256-orange"
   },
   {
     "name": "iPhone 17 PRO MAX 256 SILVER",
     "brand": "Apple",
     "price": 139000,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-iphone-17-pro-max-256-silver"
   },
   {
     "name": "iPhone 17 PRO MAX 512 ORANGE",
     "brand": "Apple",
     "price": 160000,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-iphone-17-pro-max-512-orange"
   },
   {
     "name": "iPhone 17 PRO MAX 512 SILVER",
     "brand": "Apple",
     "price": 161000,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-iphone-17-pro-max-512-silver"
   },
   {
     "name": "iPhone 18 PRO 256 BLACK",
     "brand": "Apple",
     "price": 156000,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-iphone-18-pro-256-black"
   },
   {
     "name": "iPhone 18 PRO 256 BLUE",
     "brand": "Apple",
     "price": 156000,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-iphone-18-pro-256-blue"
   },
   {
     "name": "iPhone 18 PRO 256 SILVER",
     "brand": "Apple",
     "price": 156000,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-iphone-18-pro-256-silver"
   },
   {
     "name": "iPhone 18 PRO 256 BURGUNDY",
     "brand": "Apple",
     "price": 159000,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-iphone-18-pro-256-burgundy"
   },
   {
     "name": "iPhone 18 PRO 512 BLACK",
     "brand": "Apple",
     "price": 178000,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-iphone-18-pro-512-black"
   },
   {
     "name": "iPhone 18 PRO 512 BURGUNDY",
     "brand": "Apple",
     "price": 185000,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-iphone-18-pro-512-burgundy"
   },
   {
     "name": "iPhone 18 PRO MAX 256 SILVER",
     "brand": "Apple",
     "price": 174000,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-iphone-18-pro-max-256-silver"
   },
   {
     "name": "iPhone 18 PRO MAX 256 BLUE",
     "brand": "Apple",
     "price": 174000,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-iphone-18-pro-max-256-blue"
   },
   {
     "name": "iPhone 18 PRO MAX 256 BLACK",
     "brand": "Apple",
     "price": 174000,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-iphone-18-pro-max-256-black"
   },
   {
     "name": "iPhone 18 PRO MAX 256 BURGUNDY",
     "brand": "Apple",
     "price": 179000,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-iphone-18-pro-max-256-burgundy"
   },
   {
     "name": "iPhone 18 PRO MAX 512 SILVER",
     "brand": "Apple",
     "price": 197500,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-iphone-18-pro-max-512-silver"
   },
   {
     "name": "iPhone 18 PRO MAX 512 BLACK",
     "brand": "Apple",
     "price": 199000,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-iphone-18-pro-max-512-black"
   },
   {
     "name": "iPhone 18 PRO MAX 512 GLACIER",
     "brand": "Apple",
     "price": 199000,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-iphone-18-pro-max-512-glacier"
   },
   {
     "name": "iPhone 18 PRO MAX 512 BURGUNDY",
     "brand": "Apple",
     "price": 208000,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-iphone-18-pro-max-512-burgundy"
   },
   {
     "name": "iPhone 15 128 BLACK",
     "brand": "Apple",
     "price": 56500,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-iphone-15-128-black"
   },
   {
     "name": "iPhone 15 128 BLUE",
     "brand": "Apple",
     "price": 57200,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-iphone-15-128-blue"
   },
   {
     "name": "iPhone 16 128 BLACK",
     "brand": "Apple",
     "price": 67000,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-iphone-16-128-black"
   },
   {
     "name": "iPhone 17 256 BLACK",
     "brand": "Apple",
     "price": 85500,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-iphone-17-256-black"
   },
   {
     "name": "iPhone 17 PRO 256 ORANGE",
     "brand": "Apple",
     "price": 121000,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-iphone-17-pro-256-orange-2"
   },
   {
     "name": "iPhone 17 PRO 256 SILVER",
     "brand": "Apple",
     "price": 120000,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-iphone-17-pro-256-silver-2"
   },
   {
     "name": "iPhone 17 PRO MAX 256 ORANGE",
     "brand": "Apple",
     "price": 133000,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-iphone-17-pro-max-256-orange-2"
   },
   {
     "name": "iPhone 17 PRO MAX 256 BLUE",
     "brand": "Apple",
     "price": 133000,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-iphone-17-pro-max-256-blue"
   },
   {
     "name": "iPhone 18 PRO MAX 512 USA ESIM BLACK",
     "brand": "Apple",
     "price": 185000,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-iphone-18-pro-max-512-usa-esim-black"
   },
   {
     "name": "iPhone 18 PRO MAX 512 USA ESIM BURGUNDY",
     "brand": "Apple",
     "price": 195000,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-iphone-18-pro-max-512-usa-esim-burgundy"
   },
   {
     "name": "iPhone 12 PRO MAX 256",
     "brand": "Apple",
     "price": 55000,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "apple-iphone-12-pro-max-256"
   },
   {
     "name": "15R 12/256 DARK/SILVER",
     "brand": "iQOO",
     "price": 53000,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/25/10/iqoo-15-debuts/inline/-1200/gsmarena_001.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/25/10/iqoo-15-debuts/inline/-1200/gsmarena_001.jpg",
+    "slug": "iqoo-15r-12-256-dark-silver"
   },
   {
     "name": "15R 12/512 DARK/SILVER",
     "brand": "iQOO",
     "price": 60000,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/25/10/iqoo-15-debuts/inline/-1200/gsmarena_001.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/25/10/iqoo-15-debuts/inline/-1200/gsmarena_001.jpg",
+    "slug": "iqoo-15r-12-512-dark-silver"
   },
   {
     "name": "NEO 10 8/256 WHITE",
     "brand": "iQOO",
     "price": 42000,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/25/10/iqoo-15-debuts/inline/-1200/gsmarena_001.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/25/10/iqoo-15-debuts/inline/-1200/gsmarena_001.jpg",
+    "slug": "iqoo-neo-10-8-256-white"
   },
   {
     "name": "Z10 LITE 4/128",
     "brand": "iQOO",
     "price": 17800,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/25/10/iqoo-15-debuts/inline/-1200/gsmarena_001.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/25/10/iqoo-15-debuts/inline/-1200/gsmarena_001.jpg",
+    "slug": "iqoo-z10-lite-4-128"
   },
   {
     "name": "Z10 LITE 4/64",
     "brand": "iQOO",
     "price": 15300,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/25/10/iqoo-15-debuts/inline/-1200/gsmarena_001.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/25/10/iqoo-15-debuts/inline/-1200/gsmarena_001.jpg",
+    "slug": "iqoo-z10-lite-4-64"
   },
   {
     "name": "Z11 LITE 4/128",
     "brand": "iQOO",
     "price": 18300,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/25/10/iqoo-15-debuts/inline/-1200/gsmarena_001.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/25/10/iqoo-15-debuts/inline/-1200/gsmarena_001.jpg",
+    "slug": "iqoo-z11-lite-4-128"
   },
   {
     "name": "Z11 LITE 6/128",
     "brand": "iQOO",
     "price": 20300,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/25/10/iqoo-15-debuts/inline/-1200/gsmarena_001.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/25/10/iqoo-15-debuts/inline/-1200/gsmarena_001.jpg",
+    "slug": "iqoo-z11-lite-6-128"
   },
   {
     "name": "Z11 LITE 6/256",
     "brand": "iQOO",
     "price": 23300,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/25/10/iqoo-15-debuts/inline/-1200/gsmarena_001.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/25/10/iqoo-15-debuts/inline/-1200/gsmarena_001.jpg",
+    "slug": "iqoo-z11-lite-6-256"
   },
   {
     "name": "Z11X 8/128",
     "brand": "iQOO",
     "price": 26000,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/25/10/iqoo-15-debuts/inline/-1200/gsmarena_001.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/25/10/iqoo-15-debuts/inline/-1200/gsmarena_001.jpg",
+    "slug": "iqoo-z11x-8-128"
   },
   {
     "name": "Z11X 8/256",
     "brand": "iQOO",
     "price": 28800,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/25/10/iqoo-15-debuts/inline/-1200/gsmarena_001.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/25/10/iqoo-15-debuts/inline/-1200/gsmarena_001.jpg",
+    "slug": "iqoo-z11x-8-256"
   },
   {
     "name": "A100C 2/64",
     "brand": "Itel",
     "price": 7350,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "itel-a100c-2-64"
   },
   {
     "name": "A100 3/64",
     "brand": "Itel",
     "price": 8250,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "itel-a100-3-64"
   },
   {
     "name": "A100 4/64",
     "brand": "Itel",
     "price": 9400,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "itel-a100-4-64"
   },
   {
     "name": "A300C 4/64",
     "brand": "Itel",
     "price": 9550,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "itel-a300c-4-64"
   },
   {
     "name": "A100 PRO 3/64",
     "brand": "Itel",
     "price": 8300,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "itel-a100-pro-3-64"
   },
   {
     "name": "A100 PRO 4/64",
     "brand": "Itel",
     "price": 9450,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "itel-a100-pro-4-64"
   },
   {
     "name": "A100 PRO 4/64 WITH NAKEBAND",
     "brand": "Itel",
     "price": 9600,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "itel-a100-pro-4-64-with-nakeband"
   },
   {
     "name": "2165C",
     "brand": "Itel",
     "price": 800,
     "stock": "In Stock",
-    "image": "https://m.media-amazon.com/images/I/41T-rB5Ah1L._SY445_SX342_QL70_ML2_.jpg"
+    "image": "https://m.media-amazon.com/images/I/41T-rB5Ah1L._SY445_SX342_QL70_ML2_.jpg",
+    "slug": "itel-2165c"
   },
   {
     "name": "2181",
     "brand": "Itel",
     "price": 865,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "itel-2181"
   },
   {
     "name": "5027 SLIM",
     "brand": "Itel",
     "price": 980,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "itel-5027-slim"
   },
   {
     "name": "5095",
     "brand": "Itel",
     "price": 1410,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "itel-5095"
   },
   {
     "name": "5262",
     "brand": "Itel",
     "price": 1190,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "itel-5262"
   },
   {
     "name": "5330",
     "brand": "Itel",
     "price": 1275,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "itel-5330"
   },
   {
     "name": "ACE 3 HEERA",
     "brand": "Itel",
     "price": 740,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "itel-ace-3-heera"
   },
   {
     "name": "ACE 3 POWER",
     "brand": "Itel",
     "price": 1030,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "itel-ace-3-power"
   },
   {
     "name": "ACE 3 SHINE",
     "brand": "Itel",
     "price": 780,
     "stock": "In Stock",
-    "image": "https://m.media-amazon.com/images/I/71X6jir8MrS._AC_SL1500_.jpg"
+    "image": "https://m.media-amazon.com/images/I/71X6jir8MrS._AC_SL1500_.jpg",
+    "slug": "itel-ace-3-shine"
   },
   {
     "name": "ACE 4 SHINE",
     "brand": "Itel",
     "price": 785,
     "stock": "In Stock",
-    "image": "https://rukminim1.flixcart.com/image/400/400/xif0q/printer/6/m/2/laserjet-pro-mfp-m126a-plus-hp-original-imahfz5rbnggfue3.jpeg?q=90"
+    "image": "https://rukminim1.flixcart.com/image/400/400/xif0q/printer/6/m/2/laserjet-pro-mfp-m126a-plus-hp-original-imahfz5rbnggfue3.jpeg?q=90",
+    "slug": "itel-ace-4-shine"
   },
   {
     "name": "ACE 2 HEERA",
     "brand": "Itel",
     "price": 745,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "itel-ace-2-heera"
   },
   {
     "name": "CIRCLE 1",
     "brand": "Itel",
     "price": 890,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "itel-circle-1"
   },
   {
     "name": "5608",
     "brand": "Itel",
     "price": 1035,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "itel-5608"
   },
   {
     "name": "3010 KING SINGAL",
     "brand": "Itel",
     "price": 1090,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "itel-3010-king-singal"
   },
   {
     "name": "P450",
     "brand": "Itel",
     "price": 1355,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "itel-p450"
   },
   {
     "name": "P451",
     "brand": "Itel",
     "price": 1285,
     "stock": "In Stock",
-    "image": "https://rukminim2.flixcart.com/image/850/1000/juh9ksw0/poster/2/w/u/large-pnf-20x28-9368-mahatma-gandhi-uv-textured-water-proof-original-imaffjmtzhh2azwu.jpeg"
+    "image": "https://rukminim2.flixcart.com/image/850/1000/juh9ksw0/poster/2/w/u/large-pnf-20x28-9368-mahatma-gandhi-uv-textured-water-proof-original-imaffjmtzhh2azwu.jpeg",
+    "slug": "itel-p451"
   },
   {
     "name": "6133",
     "brand": "Itel",
     "price": 1430,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "itel-6133"
   },
   {
     "name": "4520",
     "brand": "Itel",
     "price": 1230,
     "stock": "In Stock",
-    "image": "https://m.media-amazon.com/images/M/MV5BYzEzYTBmYjgtNjQzMi00YmNiLTkyZGItOGFhMzEzOWY3MjI4XkEyXkFqcGc@._V1_QL75_UX140_CR0,4,140,207_.jpg"
+    "image": "https://m.media-amazon.com/images/M/MV5BYzEzYTBmYjgtNjQzMi00YmNiLTkyZGItOGFhMzEzOWY3MjI4XkEyXkFqcGc@._V1_QL75_UX140_CR0,4,140,207_.jpg",
+    "slug": "itel-4520"
   },
   {
     "name": "V4",
     "brand": "Jio",
     "price": 695,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/23/07/jio-bharat-4g-cheap-phones/inline/-1200/gsmarena_002.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/23/07/jio-bharat-4g-cheap-phones/inline/-1200/gsmarena_002.jpg",
+    "slug": "jio-v4"
   },
   {
     "name": "A1",
     "brand": "Jio",
     "price": 1190,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/23/07/jio-bharat-4g-cheap-phones/inline/-1200/gsmarena_002.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/23/07/jio-bharat-4g-cheap-phones/inline/-1200/gsmarena_002.jpg",
+    "slug": "jio-a1"
   },
   {
     "name": "B2",
     "brand": "Jio",
     "price": 1210,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/23/07/jio-bharat-4g-cheap-phones/inline/-1200/gsmarena_002.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/23/07/jio-bharat-4g-cheap-phones/inline/-1200/gsmarena_002.jpg",
+    "slug": "jio-b2"
   },
   {
     "name": "JIO GREEN",
     "brand": "Jio",
     "price": 1780,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/23/07/jio-bharat-4g-cheap-phones/inline/-1200/gsmarena_002.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/23/07/jio-bharat-4g-cheap-phones/inline/-1200/gsmarena_002.jpg",
+    "slug": "jio-jio-green"
   },
   {
     "name": "PRIMA 2",
     "brand": "Jio",
     "price": 2550,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/23/07/jio-bharat-4g-cheap-phones/inline/-1200/gsmarena_002.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/23/07/jio-bharat-4g-cheap-phones/inline/-1200/gsmarena_002.jpg",
+    "slug": "jio-prima-2"
   },
   {
     "name": "A26",
     "brand": "Kechaoda",
     "price": 710,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "kechaoda-a26"
   },
   {
     "name": "A27",
     "brand": "Kechaoda",
     "price": 710,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "kechaoda-a27"
   },
   {
     "name": "K33",
     "brand": "Kechaoda",
     "price": 770,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "kechaoda-k33"
   },
   {
     "name": "K115",
     "brand": "Kechaoda",
     "price": 815,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "kechaoda-k115"
   },
   {
     "name": "HERO SHAKTI",
     "brand": "Lava",
     "price": 790,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "lava-hero-shakti"
   },
   {
     "name": "A1 JOSH ARMY",
     "brand": "Lava",
     "price": 855,
     "stock": "In Stock",
-    "image": "https://m.media-amazon.com/images/I/517bm1VCoYL._AC_UF1000,1000_QL80_.jpg"
+    "image": "https://m.media-amazon.com/images/I/517bm1VCoYL._AC_UF1000,1000_QL80_.jpg",
+    "slug": "lava-a1-josh-army"
   },
   {
     "name": "A1 JOSH BOL",
     "brand": "Lava",
     "price": 855,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "lava-a1-josh-bol"
   },
   {
     "name": "A1 TEJAS",
     "brand": "Lava",
     "price": 955,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "lava-a1-tejas"
   },
   {
     "name": "A3 KING",
     "brand": "Lava",
     "price": 1020,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "lava-a3-king"
   },
   {
     "name": "A3 TORCH",
     "brand": "Lava",
     "price": 1115,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "lava-a3-torch"
   },
   {
     "name": "A7 TORCH",
     "brand": "Lava",
     "price": 1355,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "lava-a7-torch"
   },
   {
     "name": "GEM 2025",
     "brand": "Lava",
     "price": 1455,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "lava-gem-2025"
   },
   {
     "name": "N2 LITE 3/64 4G",
     "brand": "Lava",
     "price": 8300,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "lava-n2-lite-3-64-4g"
   },
   {
     "name": "N2 4/64 5G",
     "brand": "Lava",
     "price": 12400,
     "stock": "In Stock",
-    "image": "https://m.media-amazon.com/images/I/61v+AG61KaL._AC_SL1000_.jpg"
+    "image": "https://m.media-amazon.com/images/I/61v+AG61KaL._AC_SL1000_.jpg",
+    "slug": "lava-n2-4-64-5g"
   },
   {
     "name": "N4 LITE 3/32 4G",
     "brand": "Lava",
     "price": 7850,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "lava-n4-lite-3-32-4g"
   },
   {
     "name": "VIRAT V1 4/64 4G",
     "brand": "Lava",
     "price": 8900,
     "stock": "In Stock",
-    "image": "https://cdn1.smartprix.com/rx-iFihKIzFf-w280-h280/vw-pro-series-vw65gq.webp"
+    "image": "https://cdn1.smartprix.com/rx-iFihKIzFf-w280-h280/vw-pro-series-vw65gq.webp",
+    "slug": "lava-virat-v1-4-64-4g"
   },
   {
     "name": "VIRAT V1 4/64 5G",
     "brand": "Lava",
     "price": 12250,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "lava-virat-v1-4-64-5g"
   },
   {
     "name": "V1 PRO 6/128 5G",
     "brand": "Lava",
     "price": 13950,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "lava-v1-pro-6-128-5g"
   },
   {
     "name": "60 FUSION 12/256",
     "brand": "Moto",
     "price": 26800,
     "stock": "In Stock",
-    "image": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-edge-60-fusion-2.jpg"
+    "image": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-edge-60-fusion-2.jpg",
+    "slug": "moto-60-fusion-12-256"
   },
   {
     "name": "60 PRO 12/256",
     "brand": "Moto",
     "price": 32750,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "moto-60-pro-12-256"
   },
   {
     "name": "70 FUSION 12/256",
     "brand": "Moto",
     "price": 32400,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "moto-70-fusion-12-256"
   },
   {
     "name": "70 FUSION 8/128",
     "brand": "Moto",
     "price": 26800,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "moto-70-fusion-8-128"
   },
   {
     "name": "EDGE 70 8/256",
     "brand": "Moto",
     "price": 28800,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "moto-edge-70-8-256"
   },
   {
     "name": "G06 POWER 4/64",
     "brand": "Moto",
     "price": 11650,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "moto-g06-power-4-64"
   },
   {
     "name": "G35 4/128",
     "brand": "Moto",
     "price": 14700,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "moto-g35-4-128"
   },
   {
     "name": "G37 4/64",
     "brand": "Moto",
     "price": 14250,
     "stock": "In Stock",
-    "image": "https://cdn.beebom.com/mobile/moto-g37-front-and-back2.png"
+    "image": "https://cdn.beebom.com/mobile/moto-g37-front-and-back2.png",
+    "slug": "moto-g37-4-64"
   },
   {
     "name": "G37 POWER 4/64",
     "brand": "Moto",
     "price": 14850,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "moto-g37-power-4-64"
   },
   {
     "name": "G37 POWER 4/128",
     "brand": "Moto",
     "price": 16150,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "moto-g37-power-4-128"
   },
   {
     "name": "G37 POWER 8/128",
     "brand": "Moto",
     "price": 18950,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "moto-g37-power-8-128"
   },
   {
     "name": "G45 8/128",
     "brand": "Moto",
     "price": 18200,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "moto-g45-8-128"
   },
   {
     "name": "G57 POWER 8/128",
     "brand": "Moto",
     "price": 19950,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "moto-g57-power-8-128"
   },
   {
     "name": "G67 POWER 8/128",
     "brand": "Moto",
     "price": 21250,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "moto-g67-power-8-128"
   },
   {
     "name": "G67 POWER 12/256",
     "brand": "Moto",
     "price": 23950,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "moto-g67-power-12-256"
   },
   {
     "name": "G96 8/128",
     "brand": "Moto",
     "price": 24800,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "moto-g96-8-128"
   },
   {
     "name": "M230",
     "brand": "Muphone",
     "price": 975,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "muphone-m230"
   },
   {
     "name": "M230 PRO",
     "brand": "Muphone",
     "price": 970,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "muphone-m230-pro"
   },
   {
     "name": "N105 SS CLASSIC",
     "brand": "Nokia",
     "price": 980,
     "stock": "In Stock",
-    "image": "https://cdn.beebom.com/mobile/nokia-150-front-and-back-1.png"
+    "image": "https://cdn.beebom.com/mobile/nokia-150-front-and-back-1.png",
+    "slug": "nokia-n105-ss-classic"
   },
   {
     "name": "N105 SS UPI",
     "brand": "Nokia",
     "price": 1060,
     "stock": "In Stock",
-    "image": "https://cdn.beebom.com/mobile/nokia-150-front-and-back-1.png"
+    "image": "https://cdn.beebom.com/mobile/nokia-150-front-and-back-1.png",
+    "slug": "nokia-n105-ss-upi"
   },
   {
     "name": "2A 8/256",
     "brand": "Nothing",
     "price": 29400,
     "stock": "In Stock",
-    "image": "https://www.gsmarena.com.bd/images/products/Nothing-Phone-2a-Plus-Grey.webp"
+    "image": "https://www.gsmarena.com.bd/images/products/Nothing-Phone-2a-Plus-Grey.webp",
+    "slug": "nothing-2a-8-256"
   },
   {
     "name": "3A LITE 8/128",
     "brand": "Nothing",
     "price": 26100,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "nothing-3a-lite-8-128"
   },
   {
     "name": "3A LITE 8/256",
     "brand": "Nothing",
     "price": 28500,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "nothing-3a-lite-8-256"
   },
   {
     "name": "4A 8/128",
     "brand": "Nothing",
     "price": 33200,
     "stock": "In Stock",
-    "image": "https://cdn.beebom.com/mobile/nothing-phone-4a-black-front-and-back-1.png"
+    "image": "https://cdn.beebom.com/mobile/nothing-phone-4a-black-front-and-back-1.png",
+    "slug": "nothing-4a-8-128"
   },
   {
     "name": "4A 8/256",
     "brand": "Nothing",
     "price": 35800,
     "stock": "In Stock",
-    "image": "https://cdn.beebom.com/mobile/nothing-phone-4a-black-front-and-back-1.png"
+    "image": "https://cdn.beebom.com/mobile/nothing-phone-4a-black-front-and-back-1.png",
+    "slug": "nothing-4a-8-256"
   },
   {
     "name": "4A 12/256",
     "brand": "Nothing",
     "price": 38500,
     "stock": "In Stock",
-    "image": "https://cdn.beebom.com/mobile/nothing-phone-4a-black-front-and-back-1.png"
+    "image": "https://cdn.beebom.com/mobile/nothing-phone-4a-black-front-and-back-1.png",
+    "slug": "nothing-4a-12-256"
   },
   {
     "name": "4B 8/128",
     "brand": "Nothing",
     "price": 28600,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "nothing-4b-8-128"
   },
   {
     "name": "4B 8/256",
     "brand": "Nothing",
     "price": 31700,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "nothing-4b-8-256"
   },
   {
     "name": "CE4 LITE 8/128",
     "brand": "OnePlus",
     "price": 24000,
     "stock": "In Stock",
-    "image": "https://image01-in.oneplus.net/media/202412/19/e648ec380d54bbe49bc3d4e51cc3b2f9.png?x-amz-process=image/format,webp/quality,Q_80"
+    "image": "https://image01-in.oneplus.net/media/202412/19/e648ec380d54bbe49bc3d4e51cc3b2f9.png?x-amz-process=image/format,webp/quality,Q_80",
+    "slug": "oneplus-ce4-lite-8-128"
   },
   {
     "name": "CE6 LITE 8/128",
     "brand": "OnePlus",
     "price": 25500,
     "stock": "In Stock",
-    "image": "https://image01-in.oneplus.net/media/202412/19/e648ec380d54bbe49bc3d4e51cc3b2f9.png?x-amz-process=image/format,webp/quality,Q_80"
+    "image": "https://image01-in.oneplus.net/media/202412/19/e648ec380d54bbe49bc3d4e51cc3b2f9.png?x-amz-process=image/format,webp/quality,Q_80",
+    "slug": "oneplus-ce6-lite-8-128"
   },
   {
     "name": "CE6 LITE 8/256",
     "brand": "OnePlus",
     "price": 28500,
     "stock": "In Stock",
-    "image": "https://image01-in.oneplus.net/media/202412/19/e648ec380d54bbe49bc3d4e51cc3b2f9.png?x-amz-process=image/format,webp/quality,Q_80"
+    "image": "https://image01-in.oneplus.net/media/202412/19/e648ec380d54bbe49bc3d4e51cc3b2f9.png?x-amz-process=image/format,webp/quality,Q_80",
+    "slug": "oneplus-ce6-lite-8-256"
   },
   {
     "name": "CE6 8/128",
     "brand": "OnePlus",
     "price": 31700,
     "stock": "In Stock",
-    "image": "https://image01-in.oneplus.net/media/202412/19/e648ec380d54bbe49bc3d4e51cc3b2f9.png?x-amz-process=image/format,webp/quality,Q_80"
+    "image": "https://image01-in.oneplus.net/media/202412/19/e648ec380d54bbe49bc3d4e51cc3b2f9.png?x-amz-process=image/format,webp/quality,Q_80",
+    "slug": "oneplus-ce6-8-128"
   },
   {
     "name": "CE6 8/256",
     "brand": "OnePlus",
     "price": 36200,
     "stock": "In Stock",
-    "image": "https://image01-in.oneplus.net/media/202412/19/e648ec380d54bbe49bc3d4e51cc3b2f9.png?x-amz-process=image/format,webp/quality,Q_80"
+    "image": "https://image01-in.oneplus.net/media/202412/19/e648ec380d54bbe49bc3d4e51cc3b2f9.png?x-amz-process=image/format,webp/quality,Q_80",
+    "slug": "oneplus-ce6-8-256"
   },
   {
     "name": "N6X 4/64",
     "brand": "OnePlus",
     "price": 17600,
     "stock": "In Stock",
-    "image": "https://image01-in.oneplus.net/media/202412/19/e648ec380d54bbe49bc3d4e51cc3b2f9.png?x-amz-process=image/format,webp/quality,Q_80"
+    "image": "https://image01-in.oneplus.net/media/202412/19/e648ec380d54bbe49bc3d4e51cc3b2f9.png?x-amz-process=image/format,webp/quality,Q_80",
+    "slug": "oneplus-n6x-4-64"
   },
   {
     "name": "N6X 4/128",
     "brand": "OnePlus",
     "price": 19400,
     "stock": "In Stock",
-    "image": "https://image01-in.oneplus.net/media/202412/19/e648ec380d54bbe49bc3d4e51cc3b2f9.png?x-amz-process=image/format,webp/quality,Q_80"
+    "image": "https://image01-in.oneplus.net/media/202412/19/e648ec380d54bbe49bc3d4e51cc3b2f9.png?x-amz-process=image/format,webp/quality,Q_80",
+    "slug": "oneplus-n6x-4-128"
   },
   {
     "name": "N6 4/128",
     "brand": "OnePlus",
     "price": 20500,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/06/oneplus-n6-ofic/-952x498w6/gsmarena_000.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/06/oneplus-n6-ofic/-952x498w6/gsmarena_000.jpg",
+    "slug": "oneplus-n6-4-128"
   },
   {
     "name": "NORD 6 8/256",
     "brand": "OnePlus",
     "price": 42000,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/03/oneplus-nord-6-india/inline/-1200/gsmarena_001.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/03/oneplus-nord-6-india/inline/-1200/gsmarena_001.jpg",
+    "slug": "oneplus-nord-6-8-256"
   },
   {
     "name": "13R 16/512",
     "brand": "OnePlus",
     "price": 48000,
     "stock": "In Stock",
-    "image": "https://image01-in.oneplus.net/media/202412/19/e648ec380d54bbe49bc3d4e51cc3b2f9.png?x-amz-process=image/format,webp/quality,Q_80"
+    "image": "https://image01-in.oneplus.net/media/202412/19/e648ec380d54bbe49bc3d4e51cc3b2f9.png?x-amz-process=image/format,webp/quality,Q_80",
+    "slug": "oneplus-13r-16-512"
   },
   {
     "name": "A6C 4/64 4G ACT",
     "brand": "Oppo",
     "price": 13200,
     "stock": "In Stock",
-    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a40-a3-a40m-a60/product/red-purple.png"
+    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a40-a3-a40m-a60/product/red-purple.png",
+    "slug": "oppo-a6c-4-64-4g-act"
   },
   {
     "name": "A6C 4/64 4G PACK",
     "brand": "Oppo",
     "price": 13600,
     "stock": "In Stock",
-    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a40-a3-a40m-a60/product/red-purple.png"
+    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a40-a3-a40m-a60/product/red-purple.png",
+    "slug": "oppo-a6c-4-64-4g-pack"
   },
   {
     "name": "A6C 4/128 4G PACK",
     "brand": "Oppo",
     "price": 15000,
     "stock": "In Stock",
-    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a40-a3-a40m-a60/product/red-purple.png"
+    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a40-a3-a40m-a60/product/red-purple.png",
+    "slug": "oppo-a6c-4-128-4g-pack"
   },
   {
     "name": "A6X 4/64 4G ACT",
     "brand": "Oppo",
     "price": 13300,
     "stock": "In Stock",
-    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a6-series/b5/specs/a6x/violet-taipurple.png"
+    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a6-series/b5/specs/a6x/violet-taipurple.png",
+    "slug": "oppo-a6x-4-64-4g-act"
   },
   {
     "name": "A6X 4/64 5G PACK",
     "brand": "Oppo",
     "price": 15500,
     "stock": "In Stock",
-    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a6-series/b5/specs/a6x/violet-taipurple.png"
+    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a6-series/b5/specs/a6x/violet-taipurple.png",
+    "slug": "oppo-a6x-4-64-5g-pack"
   },
   {
     "name": "A6X 4/128 5G ACT",
     "brand": "Oppo",
     "price": 17450,
     "stock": "In Stock",
-    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a6-series/b5/specs/a6x/violet-taipurple.png"
+    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a6-series/b5/specs/a6x/violet-taipurple.png",
+    "slug": "oppo-a6x-4-128-5g-act"
   },
   {
     "name": "A6X 4/128 5G PACK",
     "brand": "Oppo",
     "price": 17950,
     "stock": "In Stock",
-    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a6-series/b5/specs/a6x/violet-taipurple.png"
+    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a6-series/b5/specs/a6x/violet-taipurple.png",
+    "slug": "oppo-a6x-4-128-5g-pack"
   },
   {
     "name": "A6X 6/128 5G PACK",
     "brand": "Oppo",
     "price": 20700,
     "stock": "In Stock",
-    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a6-series/b5/specs/a6x/violet-taipurple.png"
+    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a6-series/b5/specs/a6x/violet-taipurple.png",
+    "slug": "oppo-a6x-6-128-5g-pack"
   },
   {
     "name": "A6S 4/128 5G PACK",
     "brand": "Oppo",
     "price": 19000,
     "stock": "In Stock",
-    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a40-a3-a40m-a60/product/red-purple.png"
+    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a40-a3-a40m-a60/product/red-purple.png",
+    "slug": "oppo-a6s-4-128-5g-pack"
   },
   {
     "name": "F33 6/128 5G PACK",
     "brand": "Oppo",
     "price": 26100,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/04/oppo-f33-f33-pro-ofic/inline/-600/gsmarena_009.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/04/oppo-f33-f33-pro-ofic/inline/-600/gsmarena_009.jpg",
+    "slug": "oppo-f33-6-128-5g-pack"
   },
   {
     "name": "F33 8/128 5G PACK",
     "brand": "Oppo",
     "price": 27800,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/04/oppo-f33-f33-pro-ofic/inline/-600/gsmarena_009.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/04/oppo-f33-f33-pro-ofic/inline/-600/gsmarena_009.jpg",
+    "slug": "oppo-f33-8-128-5g-pack"
   },
   {
     "name": "F33 8/128 5G ACT",
     "brand": "Oppo",
     "price": 26800,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/04/oppo-f33-f33-pro-ofic/inline/-600/gsmarena_009.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/04/oppo-f33-f33-pro-ofic/inline/-600/gsmarena_009.jpg",
+    "slug": "oppo-f33-8-128-5g-act"
   },
   {
     "name": "F33 PRO 8/128 5G ACT",
     "brand": "Oppo",
     "price": 27100,
     "stock": "In Stock",
-    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a40-a3-a40m-a60/product/red-purple.png"
+    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a40-a3-a40m-a60/product/red-purple.png",
+    "slug": "oppo-f33-pro-8-128-5g-act"
   },
   {
     "name": "F33 PRO 8/128 5G PACK",
     "brand": "Oppo",
     "price": 27800,
     "stock": "In Stock",
-    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a40-a3-a40m-a60/product/red-purple.png"
+    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a40-a3-a40m-a60/product/red-purple.png",
+    "slug": "oppo-f33-pro-8-128-5g-pack"
   },
   {
     "name": "F33 PRO 8/256 5G ACT",
     "brand": "Oppo",
     "price": 30500,
     "stock": "In Stock",
-    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a40-a3-a40m-a60/product/red-purple.png"
+    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a40-a3-a40m-a60/product/red-purple.png",
+    "slug": "oppo-f33-pro-8-256-5g-act"
   },
   {
     "name": "F33 PRO 8/256 5G PACK",
     "brand": "Oppo",
     "price": 31750,
     "stock": "In Stock",
-    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a40-a3-a40m-a60/product/red-purple.png"
+    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a40-a3-a40m-a60/product/red-purple.png",
+    "slug": "oppo-f33-pro-8-256-5g-pack"
   },
   {
     "name": "K14 6/128 5G PACK",
     "brand": "Oppo",
     "price": 21300,
     "stock": "In Stock",
-    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a40-a3-a40m-a60/product/red-purple.png"
+    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a40-a3-a40m-a60/product/red-purple.png",
+    "slug": "oppo-k14-6-128-5g-pack"
   },
   {
     "name": "K14 6/256 5G PACK",
     "brand": "Oppo",
     "price": 23500,
     "stock": "In Stock",
-    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a40-a3-a40m-a60/product/red-purple.png"
+    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a40-a3-a40m-a60/product/red-purple.png",
+    "slug": "oppo-k14-6-256-5g-pack"
   },
   {
     "name": "K14X 4/64 5G ACT",
     "brand": "Oppo",
     "price": 15750,
     "stock": "In Stock",
-    "image": "https://www.oppo.com/content/dam/oppo_com/common/mkt/v2-2/a6-series/k14x-in/specs/purple-blue.png"
+    "image": "https://www.oppo.com/content/dam/oppo_com/common/mkt/v2-2/a6-series/k14x-in/specs/purple-blue.png",
+    "slug": "oppo-k14x-4-64-5g-act"
   },
   {
     "name": "K14X 4/64 5G PACK",
     "brand": "Oppo",
     "price": 16050,
     "stock": "In Stock",
-    "image": "https://www.oppo.com/content/dam/oppo_com/common/mkt/v2-2/a6-series/k14x-in/specs/purple-blue.png"
+    "image": "https://www.oppo.com/content/dam/oppo_com/common/mkt/v2-2/a6-series/k14x-in/specs/purple-blue.png",
+    "slug": "oppo-k14x-4-64-5g-pack"
   },
   {
     "name": "K14X 4/128 5G PACK",
     "brand": "Oppo",
     "price": 17200,
     "stock": "In Stock",
-    "image": "https://www.oppo.com/content/dam/oppo_com/common/mkt/v2-2/a6-series/k14x-in/specs/purple-blue.png"
+    "image": "https://www.oppo.com/content/dam/oppo_com/common/mkt/v2-2/a6-series/k14x-in/specs/purple-blue.png",
+    "slug": "oppo-k14x-4-128-5g-pack"
   },
   {
     "name": "K14X 6/128 5G PACK",
     "brand": "Oppo",
     "price": 19950,
     "stock": "In Stock",
-    "image": "https://www.oppo.com/content/dam/oppo_com/common/mkt/v2-2/a6-series/k14x-in/specs/purple-blue.png"
+    "image": "https://www.oppo.com/content/dam/oppo_com/common/mkt/v2-2/a6-series/k14x-in/specs/purple-blue.png",
+    "slug": "oppo-k14x-6-128-5g-pack"
   },
   {
     "name": "K13 TURBO 8/256 5G",
     "brand": "Oppo",
     "price": 31200,
     "stock": "In Stock",
-    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a40-a3-a40m-a60/product/red-purple.png"
+    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a40-a3-a40m-a60/product/red-purple.png",
+    "slug": "oppo-k13-turbo-8-256-5g"
   },
   {
     "name": "K13 TURBO PRO 8/256",
     "brand": "Oppo",
     "price": 32200,
     "stock": "In Stock",
-    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a40-a3-a40m-a60/product/red-purple.png"
+    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a40-a3-a40m-a60/product/red-purple.png",
+    "slug": "oppo-k13-turbo-pro-8-256"
   },
   {
     "name": "K13 TURBO PRO 12/256",
     "brand": "Oppo",
     "price": 34200,
     "stock": "In Stock",
-    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a40-a3-a40m-a60/product/red-purple.png"
+    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a40-a3-a40m-a60/product/red-purple.png",
+    "slug": "oppo-k13-turbo-pro-12-256"
   },
   {
     "name": "RENO 15C 8/256 5G PACK",
     "brand": "Oppo",
     "price": 35200,
     "stock": "In Stock",
-    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a40-a3-a40m-a60/product/red-purple.png"
+    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a40-a3-a40m-a60/product/red-purple.png",
+    "slug": "oppo-reno-15c-8-256-5g-pack"
   },
   {
     "name": "RENO 15 8/256 5G PACK",
     "brand": "Oppo",
     "price": 41200,
     "stock": "In Stock",
-    "image": "https://www.oppo.com/content/dam/oppo_com/common/mkt/v2-2/reno15-series-en/specs/reno15-f/pink-darkblue-blue.png"
+    "image": "https://www.oppo.com/content/dam/oppo_com/common/mkt/v2-2/reno15-series-en/specs/reno15-f/pink-darkblue-blue.png",
+    "slug": "oppo-reno-15-8-256-5g-pack"
   },
   {
     "name": "RENO 15 PRO 12/512 5G",
     "brand": "Oppo",
     "price": 53500,
     "stock": "In Stock",
-    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a40-a3-a40m-a60/product/red-purple.png"
+    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a40-a3-a40m-a60/product/red-purple.png",
+    "slug": "oppo-reno-15-pro-12-512-5g"
   },
   {
     "name": "RENO 16 12/256 5G ACT",
     "brand": "Oppo",
     "price": 49500,
     "stock": "In Stock",
-    "image": "https://img.haribhoomi.com/uploadimage/library/16_9/16_9_0/Oppo_Reno_16__1790790358.webp"
+    "image": "https://img.haribhoomi.com/uploadimage/library/16_9/16_9_0/Oppo_Reno_16__1790790358.webp",
+    "slug": "oppo-reno-16-12-256-5g-act"
   },
   {
     "name": "RENO 16 8/256 5G PACK",
     "brand": "Oppo",
     "price": 49000,
     "stock": "In Stock",
-    "image": "https://img.haribhoomi.com/uploadimage/library/16_9/16_9_0/Oppo_Reno_16__1790790358.webp"
+    "image": "https://img.haribhoomi.com/uploadimage/library/16_9/16_9_0/Oppo_Reno_16__1790790358.webp",
+    "slug": "oppo-reno-16-8-256-5g-pack"
   },
   {
     "name": "RENO 16C 8/128 ACT",
     "brand": "Oppo",
     "price": 35000,
     "stock": "In Stock",
-    "image": "https://i.gadgets360cdn.com/large/oppo_reno_16c_5g_oppo_1790068806527.jpg"
+    "image": "https://i.gadgets360cdn.com/large/oppo_reno_16c_5g_oppo_1790068806527.jpg",
+    "slug": "oppo-reno-16c-8-128-act"
   },
   {
     "name": "RENO 16C 8/128 PACK",
     "brand": "Oppo",
     "price": 35500,
     "stock": "In Stock",
-    "image": "https://i.gadgets360cdn.com/large/oppo_reno_16c_5g_oppo_1790068806527.jpg"
+    "image": "https://i.gadgets360cdn.com/large/oppo_reno_16c_5g_oppo_1790068806527.jpg",
+    "slug": "oppo-reno-16c-8-128-pack"
   },
   {
     "name": "RENO 16C 8/256 ACT",
     "brand": "Oppo",
     "price": 38000,
     "stock": "In Stock",
-    "image": "https://i.gadgets360cdn.com/large/oppo_reno_16c_5g_oppo_1790068806527.jpg"
+    "image": "https://i.gadgets360cdn.com/large/oppo_reno_16c_5g_oppo_1790068806527.jpg",
+    "slug": "oppo-reno-16c-8-256-act"
   },
   {
     "name": "RENO 16C 8/256 AIR PACK",
     "brand": "Oppo",
     "price": 38500,
     "stock": "In Stock",
-    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a40-a3-a40m-a60/product/red-purple.png"
+    "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a40-a3-a40m-a60/product/red-purple.png",
+    "slug": "oppo-reno-16c-8-256-air-pack"
   },
   {
     "name": "RENO 16C 12/256 5G PACK",
     "brand": "Oppo",
     "price": 43000,
     "stock": "In Stock",
-    "image": "https://i.gadgets360cdn.com/large/oppo_reno_16c_5g_oppo_1790068806527.jpg"
+    "image": "https://i.gadgets360cdn.com/large/oppo_reno_16c_5g_oppo_1790068806527.jpg",
+    "slug": "oppo-reno-16c-12-256-5g-pack"
   },
   {
     "name": "C71 4/64 PACK",
     "brand": "Poco",
     "price": 10550,
     "stock": "In Stock",
-    "image": "https://cdn1.smartprix.com/rx-iifTk7TCw-w420-h420/poco-c71.webp"
+    "image": "https://cdn1.smartprix.com/rx-iifTk7TCw-w420-h420/poco-c71.webp",
+    "slug": "poco-c71-4-64-pack"
   },
   {
     "name": "C71 6/128 PACK",
     "brand": "Poco",
     "price": 11850,
     "stock": "In Stock",
-    "image": "https://cdn1.smartprix.com/rx-iifTk7TCw-w420-h420/poco-c71.webp"
+    "image": "https://cdn1.smartprix.com/rx-iifTk7TCw-w420-h420/poco-c71.webp",
+    "slug": "poco-c71-6-128-pack"
   },
   {
     "name": "C75 4/64 PACK",
     "brand": "Poco",
     "price": 13400,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "poco-c75-4-64-pack"
   },
   {
     "name": "C81 4/64 ACT",
     "brand": "Poco",
     "price": 10700,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "poco-c81-4-64-act"
   },
   {
     "name": "C81 4/64 PACK",
     "brand": "Poco",
     "price": 10800,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "poco-c81-4-64-pack"
   },
   {
     "name": "C81X 3/64 PACK",
     "brand": "Poco",
     "price": 9700,
     "stock": "In Stock",
-    "image": "https://m.media-amazon.com/images/I/61mkMk-Me1L._AC_.jpg"
+    "image": "https://m.media-amazon.com/images/I/61mkMk-Me1L._AC_.jpg",
+    "slug": "poco-c81x-3-64-pack"
   },
   {
     "name": "C85X 4/64 ACT",
     "brand": "Poco",
     "price": 12700,
     "stock": "In Stock",
-    "image": "https://m.media-amazon.com/images/I/812yg-qkQoL._SL1500_.jpg"
+    "image": "https://m.media-amazon.com/images/I/812yg-qkQoL._SL1500_.jpg",
+    "slug": "poco-c85x-4-64-act"
   },
   {
     "name": "C85X 4/64 PACK",
     "brand": "Poco",
     "price": 12900,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "poco-c85x-4-64-pack"
   },
   {
     "name": "C85X 4/128 ACT",
     "brand": "Poco",
     "price": 14000,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "poco-c85x-4-128-act"
   },
   {
     "name": "C85X 4/128 PACK",
     "brand": "Poco",
     "price": 14200,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "poco-c85x-4-128-pack"
   },
   {
     "name": "C85 6/128 ACT",
     "brand": "Poco",
     "price": 15500,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "poco-c85-6-128-act"
   },
   {
     "name": "M7 6/128 ACT",
     "brand": "Poco",
     "price": 15000,
     "stock": "In Stock",
-    "image": "https://cdn.mos.cms.futurecdn.net/LEkEkAKZQjXZkzadbHHsVj.jpg"
+    "image": "https://cdn.mos.cms.futurecdn.net/LEkEkAKZQjXZkzadbHHsVj.jpg",
+    "slug": "poco-m7-6-128-act"
   },
   {
     "name": "M7 6/128 PACK",
     "brand": "Poco",
     "price": 16200,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "poco-m7-6-128-pack"
   },
   {
     "name": "M7 8/128 PACK",
     "brand": "Poco",
     "price": 17200,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "poco-m7-8-128-pack"
   },
   {
     "name": "M7 PLUS 4/128 PACK",
     "brand": "Poco",
     "price": 14800,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "poco-m7-plus-4-128-pack"
   },
   {
     "name": "M7 PLUS 6/128 PACK",
     "brand": "Poco",
     "price": 16500,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "poco-m7-plus-6-128-pack"
   },
   {
     "name": "M8 6/128 PACK",
     "brand": "Poco",
     "price": 21500,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "poco-m8-6-128-pack"
   },
   {
     "name": "M8 POWER 6/128",
     "brand": "Poco",
     "price": 22500,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "poco-m8-power-6-128"
   },
   {
     "name": "M8 POWER 8/128",
     "brand": "Poco",
     "price": 25500,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "poco-m8-power-8-128"
   },
   {
     "name": "C100I 4/64 ACT",
     "brand": "Realme",
     "price": 12700,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "realme-c100i-4-64-act"
   },
   {
     "name": "C100 I 4/64",
     "brand": "Realme",
     "price": 12800,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "realme-c100-i-4-64"
   },
   {
     "name": "C100X 4/64",
     "brand": "Realme",
     "price": 13300,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/04/realme-c100x-listing-leak/inline/-1200/gsmarena_001.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/04/realme-c100x-listing-leak/inline/-1200/gsmarena_001.jpg",
+    "slug": "realme-c100x-4-64"
   },
   {
     "name": "C33 3/32",
     "brand": "Realme",
     "price": 10000,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "realme-c33-3-32"
   },
   {
     "name": "C83 4/64",
     "brand": "Realme",
     "price": 15050,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "realme-c83-4-64"
   },
   {
     "name": "C83 4/128",
     "brand": "Realme",
     "price": 17500,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "realme-c83-4-128"
   },
   {
     "name": "C83 6/128",
     "brand": "Realme",
     "price": 19800,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "realme-c83-6-128"
   },
   {
     "name": "R15X 6/128",
     "brand": "Realme",
     "price": 21600,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "realme-r15x-6-128"
   },
   {
     "name": "R16X 6/256",
     "brand": "Realme",
     "price": 23800,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "realme-r16x-6-256"
   },
   {
     "name": "R16T 6/128",
     "brand": "Realme",
     "price": 22700,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "realme-r16t-6-128"
   },
   {
     "name": "R16T 8/128",
     "brand": "Realme",
     "price": 23900,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "realme-r16t-8-128"
   },
   {
     "name": "R16 8/128",
     "brand": "Realme",
     "price": 27400,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "realme-r16-8-128"
   },
   {
     "name": "R16 8/256",
     "brand": "Realme",
     "price": 28800,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "realme-r16-8-256"
   },
   {
     "name": "R16 PRO 8/256",
     "brand": "Realme",
     "price": 34500,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "realme-r16-pro-8-256"
   },
   {
     "name": "R16 PRO 12/256",
     "brand": "Realme",
     "price": 36000,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "realme-r16-pro-12-256"
   },
   {
     "name": "P4 LITE 4/64 4G",
     "brand": "Realme",
     "price": 11850,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "realme-p4-lite-4-64-4g"
   },
   {
     "name": "P4 LITE 6/128 4G",
     "brand": "Realme",
     "price": 12850,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "realme-p4-lite-6-128-4g"
   },
   {
     "name": "P4 LITE 4/64 5G",
     "brand": "Realme",
     "price": 14850,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "realme-p4-lite-4-64-5g"
   },
   {
     "name": "P4 LITE 4/128 5G",
     "brand": "Realme",
     "price": 16850,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "realme-p4-lite-4-128-5g"
   },
   {
     "name": "P4 LITE 6/128 5G",
     "brand": "Realme",
     "price": 19200,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "realme-p4-lite-6-128-5g"
   },
   {
     "name": "P4 8/128 5G",
     "brand": "Realme",
     "price": 26500,
     "stock": "In Stock",
-    "image": "https://image01.realme.net/general/20250812/1754992928508d177bf93471e46e4ae09efb0f872a291.png?width=1080&amp;height=1080&amp;size=892763"
+    "image": "https://image01.realme.net/general/20250812/1754992928508d177bf93471e46e4ae09efb0f872a291.png?width=1080&amp;height=1080&amp;size=892763",
+    "slug": "realme-p4-8-128-5g"
   },
   {
     "name": "P4 8/256 5G",
     "brand": "Realme",
     "price": 27800,
     "stock": "In Stock",
-    "image": "https://image01.realme.net/general/20250812/1754992928508d177bf93471e46e4ae09efb0f872a291.png?width=1080&amp;height=1080&amp;size=892763"
+    "image": "https://image01.realme.net/general/20250812/1754992928508d177bf93471e46e4ae09efb0f872a291.png?width=1080&amp;height=1080&amp;size=892763",
+    "slug": "realme-p4-8-256-5g"
   },
   {
     "name": "P4S 8/128 5G",
     "brand": "Realme",
     "price": 30800,
     "stock": "In Stock",
-    "image": "https://image01.realme.net/general/20250311/174167265769379ff057cd8c445d1a77980a9248f8123.png?width=1080&amp;height=1080&amp;size=777498"
+    "image": "https://image01.realme.net/general/20250311/174167265769379ff057cd8c445d1a77980a9248f8123.png?width=1080&amp;height=1080&amp;size=777498",
+    "slug": "realme-p4s-8-128-5g"
   },
   {
     "name": "P4R 4/64",
     "brand": "Realme",
     "price": 17100,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "realme-p4r-4-64"
   },
   {
     "name": "P4R 4/128",
     "brand": "Realme",
     "price": 18350,
     "stock": "In Stock",
-    "image": "https://static.beebom.com/wp-content/uploads/2022/12/final-cpu-installed.jpg"
+    "image": "https://static.beebom.com/wp-content/uploads/2022/12/final-cpu-installed.jpg",
+    "slug": "realme-p4r-4-128"
   },
   {
     "name": "P4R 6/128",
     "brand": "Realme",
     "price": 21350,
     "stock": "In Stock",
-    "image": "https://m.media-amazon.com/images/I/71Td0HmeyRL._AC_SL1500_.jpg"
+    "image": "https://m.media-amazon.com/images/I/71Td0HmeyRL._AC_SL1500_.jpg",
+    "slug": "realme-p4r-6-128"
   },
   {
     "name": "P4X 6/128",
     "brand": "Realme",
     "price": 20800,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "realme-p4x-6-128"
   },
   {
     "name": "P4X 8/128",
     "brand": "Realme",
     "price": 22600,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "realme-p4x-8-128"
   },
   {
     "name": "P4 PRO 8/256",
     "brand": "Realme",
     "price": 30000,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "realme-p4-pro-8-256"
   },
   {
     "name": "P4 POWER 8/128",
     "brand": "Realme",
     "price": 28500,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "realme-p4-power-8-128"
   },
   {
     "name": "NARZO 80 LITE 6/128 4G",
     "brand": "Realme",
     "price": 13600,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "realme-narzo-80-lite-6-128-4g"
   },
   {
     "name": "NARZO 80 LITE 4/128 5G",
     "brand": "Realme",
     "price": 15800,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "realme-narzo-80-lite-4-128-5g"
   },
   {
     "name": "NARZO 80 PRO 8/256 5G",
     "brand": "Realme",
     "price": 25500,
     "stock": "In Stock",
-    "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1m14nw7vkendf0pbuxm/0/nagendra.webp?f=3:2&amp;q=0.75&amp;w=900"
+    "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1m14nw7vkendf0pbuxm/0/nagendra.webp?f=3:2&amp;q=0.75&amp;w=900",
+    "slug": "realme-narzo-80-pro-8-256-5g"
   },
   {
     "name": "NARZO 100 LITE 4/64 5G",
     "brand": "Realme",
     "price": 14950,
     "stock": "In Stock",
-    "image": "https://rukminim1.flixcart.com/image/416/416/krqoknk0/coin-collection/j/3/p/set-of-6-very-old-coins-1-paisa-2-paise-3-paise-5-paise-10-paise-original-imag5gygymbyegy9.jpeg?q=70"
+    "image": "https://rukminim1.flixcart.com/image/416/416/krqoknk0/coin-collection/j/3/p/set-of-6-very-old-coins-1-paisa-2-paise-3-paise-5-paise-10-paise-original-imag5gygymbyegy9.jpeg?q=70",
+    "slug": "realme-narzo-100-lite-4-64-5g"
   },
   {
     "name": "NARZO 100 LITE 4/128",
     "brand": "Realme",
     "price": 16000,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "realme-narzo-100-lite-4-128"
   },
   {
     "name": "NARZO POWER 8/256 5G",
     "brand": "Realme",
     "price": 29000,
     "stock": "In Stock",
-    "image": "https://image01.realme.net/general/20250922/1758515178252f9cbb0ca5d3f4b09b1764bc83483f879.png?width=1080&amp;height=1080&amp;size=265016"
+    "image": "https://image01.realme.net/general/20250922/1758515178252f9cbb0ca5d3f4b09b1764bc83483f879.png?width=1080&amp;height=1080&amp;size=265016",
+    "slug": "realme-narzo-power-8-256-5g"
   },
   {
     "name": "N90X 4/128",
     "brand": "Realme",
     "price": 17100,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-finish-select-202207-6-1inch_AV3?wid=5120&amp;hei=2880&amp;fmt=p-jpg&amp;qlt=80&amp;.v=1671463145857"
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-finish-select-202207-6-1inch_AV3?wid=5120&amp;hei=2880&amp;fmt=p-jpg&amp;qlt=80&amp;.v=1671463145857",
+    "slug": "realme-n90x-4-128"
   },
   {
     "name": "N90X 6/128",
     "brand": "Realme",
     "price": 18800,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "realme-n90x-6-128"
   },
   {
     "name": "N100X 4/128",
     "brand": "Realme",
     "price": 17850,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "realme-n100x-4-128"
   },
   {
     "name": "N100X 6/128",
     "brand": "Realme",
     "price": 19800,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "realme-n100x-6-128"
   },
   {
     "name": "MI A4 4/64 PACK",
     "brand": "Redmi",
     "price": 13600,
     "stock": "In Stock",
-    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png"
+    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png",
+    "slug": "redmi-mi-a4-4-64-pack"
   },
   {
     "name": "MI A7 3/64 ACT",
     "brand": "Redmi",
     "price": 10650,
     "stock": "In Stock",
-    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png"
+    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png",
+    "slug": "redmi-mi-a7-3-64-act"
   },
   {
     "name": "MI A7 3/64 PACK",
     "brand": "Redmi",
     "price": 10750,
     "stock": "In Stock",
-    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png"
+    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png",
+    "slug": "redmi-mi-a7-3-64-pack"
   },
   {
     "name": "MI A7 PRO 4/64 4G ACT",
     "brand": "Redmi",
     "price": 11000,
     "stock": "In Stock",
-    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png"
+    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png",
+    "slug": "redmi-mi-a7-pro-4-64-4g-act"
   },
   {
     "name": "MI A7 PRO 4/64 4G PACK",
     "brand": "Redmi",
     "price": 11150,
     "stock": "In Stock",
-    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png"
+    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png",
+    "slug": "redmi-mi-a7-pro-4-64-4g-pack"
   },
   {
     "name": "MI A7 PRO 4/64 5G",
     "brand": "Redmi",
     "price": 13000,
     "stock": "In Stock",
-    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png"
+    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png",
+    "slug": "redmi-mi-a7-pro-4-64-5g"
   },
   {
     "name": "MI A7 PRO 4/128 5G",
     "brand": "Redmi",
     "price": 14050,
     "stock": "In Stock",
-    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png"
+    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png",
+    "slug": "redmi-mi-a7-pro-4-128-5g"
   },
   {
     "name": "MI 15A 4/64 5G PACK",
     "brand": "Redmi",
     "price": 13850,
     "stock": "In Stock",
-    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png"
+    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png",
+    "slug": "redmi-mi-15a-4-64-5g-pack"
   },
   {
     "name": "MI 15A 4/64 5G ACT",
     "brand": "Redmi",
     "price": 13750,
     "stock": "In Stock",
-    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png"
+    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png",
+    "slug": "redmi-mi-15a-4-64-5g-act"
   },
   {
     "name": "MI 15A 4/128 5G ACT",
     "brand": "Redmi",
     "price": 14800,
     "stock": "In Stock",
-    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png"
+    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png",
+    "slug": "redmi-mi-15a-4-128-5g-act"
   },
   {
     "name": "MI 15A 4/128 5G PACK",
     "brand": "Redmi",
     "price": 14900,
     "stock": "In Stock",
-    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png"
+    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png",
+    "slug": "redmi-mi-15a-4-128-5g-pack"
   },
   {
     "name": "MI 15C 4/128 ACT",
     "brand": "Redmi",
     "price": 15300,
     "stock": "In Stock",
-    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png"
+    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png",
+    "slug": "redmi-mi-15c-4-128-act"
   },
   {
     "name": "MI 15C 4/128 PACK",
     "brand": "Redmi",
     "price": 15600,
     "stock": "In Stock",
-    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png"
+    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png",
+    "slug": "redmi-mi-15c-4-128-pack"
   },
   {
     "name": "MI 15C 6/128 ACT",
     "brand": "Redmi",
     "price": 17700,
     "stock": "In Stock",
-    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png"
+    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png",
+    "slug": "redmi-mi-15c-6-128-act"
   },
   {
     "name": "MI 15C 8/128 ACT",
     "brand": "Redmi",
     "price": 17800,
     "stock": "In Stock",
-    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png"
+    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png",
+    "slug": "redmi-mi-15c-8-128-act"
   },
   {
     "name": "MI 15 8/128 ACT",
     "brand": "Redmi",
     "price": 20600,
     "stock": "In Stock",
-    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png"
+    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png",
+    "slug": "redmi-mi-15-8-128-act"
   },
   {
     "name": "MI 15 8/256",
     "brand": "Redmi",
     "price": 24000,
     "stock": "In Stock",
-    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png"
+    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png",
+    "slug": "redmi-mi-15-8-256"
   },
   {
     "name": "MI 15SE 6/128",
     "brand": "Redmi",
     "price": 22600,
     "stock": "In Stock",
-    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png"
+    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png",
+    "slug": "redmi-mi-15se-6-128"
   },
   {
     "name": "MI 15SE 8/128",
     "brand": "Redmi",
     "price": 24650,
     "stock": "In Stock",
-    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png"
+    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png",
+    "slug": "redmi-mi-15se-8-128"
   },
   {
     "name": "MI NOTE 15 8/128",
     "brand": "Redmi",
     "price": 24600,
     "stock": "In Stock",
-    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png"
+    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png",
+    "slug": "redmi-mi-note-15-8-128"
   },
   {
     "name": "MI NOTE 17 6/128 ACT",
     "brand": "Redmi",
     "price": 23100,
     "stock": "In Stock",
-    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png"
+    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png",
+    "slug": "redmi-mi-note-17-6-128-act"
   },
   {
     "name": "MI NOTE 17 6/128 PACK",
     "brand": "Redmi",
     "price": 24100,
     "stock": "In Stock",
-    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png"
+    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png",
+    "slug": "redmi-mi-note-17-6-128-pack"
   },
   {
     "name": "MI NOTE 14 PRO 8/256",
     "brand": "Redmi",
     "price": 24400,
     "stock": "In Stock",
-    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png"
+    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png",
+    "slug": "redmi-mi-note-14-pro-8-256"
   },
   {
     "name": "MI NOTE 14 PRO PLUS 8/128",
     "brand": "Redmi",
     "price": 24400,
     "stock": "In Stock",
-    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png"
+    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png",
+    "slug": "redmi-mi-note-14-pro-plus-8-128"
   },
   {
     "name": "MI NOTE 14 PRO PLUS 8/256 PACK",
     "brand": "Redmi",
     "price": 26400,
     "stock": "In Stock",
-    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png"
+    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png",
+    "slug": "redmi-mi-note-14-pro-plus-8-256-pack"
   },
   {
     "name": "MI NOTE 15 PRO PLUS 8/256",
     "brand": "Redmi",
     "price": 34600,
     "stock": "In Stock",
-    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png"
+    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png",
+    "slug": "redmi-mi-note-15-pro-plus-8-256"
   },
   {
     "name": "A06 4/64 4G",
     "brand": "Samsung",
     "price": 10900,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg",
+    "slug": "samsung-a06-4-64-4g"
   },
   {
     "name": "A06 4/64 5G",
     "brand": "Samsung",
     "price": 13150,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg",
+    "slug": "samsung-a06-4-64-5g"
   },
   {
     "name": "A07 4/64 4G",
     "brand": "Samsung",
     "price": 11000,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg",
+    "slug": "samsung-a07-4-64-4g"
   },
   {
     "name": "A07 4/128 5G",
     "brand": "Samsung",
     "price": 15200,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg",
+    "slug": "samsung-a07-4-128-5g"
   },
   {
     "name": "A17 6/128 5G",
     "brand": "Samsung",
     "price": 20100,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg",
+    "slug": "samsung-a17-6-128-5g"
   },
   {
     "name": "A17 8/128 5G",
     "brand": "Samsung",
     "price": 22400,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg",
+    "slug": "samsung-a17-8-128-5g"
   },
   {
     "name": "A36 8/128 5G",
     "brand": "Samsung",
     "price": 24200,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg",
+    "slug": "samsung-a36-8-128-5g"
   },
   {
     "name": "A36 8/256 5G",
     "brand": "Samsung",
     "price": 28700,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg",
+    "slug": "samsung-a36-8-256-5g"
   },
   {
     "name": "F06 4/128",
     "brand": "Samsung",
     "price": 14000,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg",
+    "slug": "samsung-f06-4-128"
   },
   {
     "name": "F06 6/128",
     "brand": "Samsung",
     "price": 16000,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg",
+    "slug": "samsung-f06-6-128"
   },
   {
     "name": "F07 4/64",
     "brand": "Samsung",
     "price": 11000,
     "stock": "In Stock",
-    "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-f07.jpg"
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-f07.jpg",
+    "slug": "samsung-f07-4-64"
   },
   {
     "name": "F70E 4/128",
     "brand": "Samsung",
     "price": 14800,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg",
+    "slug": "samsung-f70e-4-128"
   },
   {
     "name": "F70E 6/128",
     "brand": "Samsung",
     "price": 16800,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg",
+    "slug": "samsung-f70e-6-128"
   },
   {
     "name": "F70 PRO 6/128",
     "brand": "Samsung",
     "price": 24100,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg",
+    "slug": "samsung-f70-pro-6-128"
   },
   {
     "name": "M06 4/64",
     "brand": "Samsung",
     "price": 13100,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg",
+    "slug": "samsung-m06-4-64"
   },
   {
     "name": "M06 4/128",
     "brand": "Samsung",
     "price": 14000,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg",
+    "slug": "samsung-m06-4-128"
   },
   {
     "name": "M07 4/64 4G",
     "brand": "Samsung",
     "price": 11050,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg",
+    "slug": "samsung-m07-4-64-4g"
   },
   {
     "name": "M17 4/128",
     "brand": "Samsung",
     "price": 16800,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg",
+    "slug": "samsung-m17-4-128"
   },
   {
     "name": "M17E 6/128",
     "brand": "Samsung",
     "price": 17000,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg",
+    "slug": "samsung-m17e-6-128"
   },
   {
     "name": "M36 6/128",
     "brand": "Samsung",
     "price": 20300,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg",
+    "slug": "samsung-m36-6-128"
   },
   {
     "name": "M47 6/128",
     "brand": "Samsung",
     "price": 25000,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg",
+    "slug": "samsung-m47-6-128"
   },
   {
     "name": "S25 12/128",
     "brand": "Samsung",
     "price": 58000,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/25/01/samsung-galaxy-s25-ifr/-1200w5/gsmarena_003.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/25/01/samsung-galaxy-s25-ifr/-1200w5/gsmarena_003.jpg",
+    "slug": "samsung-s25-12-128"
   },
   {
     "name": "S25 12/256",
     "brand": "Samsung",
     "price": 62000,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/25/01/samsung-galaxy-s25-ifr/-1200w5/gsmarena_003.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/25/01/samsung-galaxy-s25-ifr/-1200w5/gsmarena_003.jpg",
+    "slug": "samsung-s25-12-256"
   },
   {
     "name": "S25 ULTRA 12/256 PACK",
     "brand": "Samsung",
     "price": 86000,
     "stock": "In Stock",
-    "image": "https://cdn.beebom.com/mobile/samsung-galaxy-s25-ultra-front-and-back-1.png"
+    "image": "https://cdn.beebom.com/mobile/samsung-galaxy-s25-ultra-front-and-back-1.png",
+    "slug": "samsung-s25-ultra-12-256-pack"
   },
   {
     "name": "S26 12/256 ACT",
     "brand": "Samsung",
     "price": 66000,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg",
+    "slug": "samsung-s26-12-256-act"
   },
   {
     "name": "S26 12/256 PACK",
     "brand": "Samsung",
     "price": 71000,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg",
+    "slug": "samsung-s26-12-256-pack"
   },
   {
     "name": "S26 ULTRA 12/256 ACT",
     "brand": "Samsung",
     "price": 108000,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg",
+    "slug": "samsung-s26-ultra-12-256-act"
   },
   {
     "name": "S26 ULTRA 12/256 PACK",
     "brand": "Samsung",
     "price": 116500,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg",
+    "slug": "samsung-s26-ultra-12-256-pack"
   },
   {
     "name": "S26 ULTRA 12/512 PACK",
     "brand": "Samsung",
     "price": 134000,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg",
+    "slug": "samsung-s26-ultra-12-512-pack"
   },
   {
     "name": "A9 4/64 WI-FI",
     "brand": "Samsung",
     "price": 15750,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg",
+    "slug": "samsung-a9-4-64-wi-fi"
   },
   {
     "name": "A11 PLUS 6/128 WI-FI",
     "brand": "Samsung",
     "price": 21300,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg",
+    "slug": "samsung-a11-plus-6-128-wi-fi"
   },
   {
     "name": "A11 PLUS 6/128 CALLING",
     "brand": "Samsung",
     "price": 24200,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg",
+    "slug": "samsung-a11-plus-6-128-calling"
   },
   {
     "name": "GO 3 4/64",
     "brand": "Tecno",
     "price": 10200,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "tecno-go-3-4-64"
   },
   {
     "name": "GO 3 PRO 4/64",
     "brand": "Tecno",
     "price": 13800,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "tecno-go-3-pro-4-64"
   },
   {
     "name": "GO 3 PRO 4/128",
     "brand": "Tecno",
     "price": 14800,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "tecno-go-3-pro-4-128"
   },
   {
     "name": "CURVE 2 8/128",
     "brand": "Tecno",
     "price": 24000,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "tecno-curve-2-8-128"
   },
   {
     "name": "Y05 4/64 PACK",
     "brand": "Vivo",
     "price": 13550,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg",
+    "slug": "vivo-y05-4-64-pack"
   },
   {
     "name": "Y11 4/64 ACT",
     "brand": "Vivo",
     "price": 15350,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg",
+    "slug": "vivo-y11-4-64-act"
   },
   {
     "name": "Y11 4/64 PACK",
     "brand": "Vivo",
     "price": 15750,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg",
+    "slug": "vivo-y11-4-64-pack"
   },
   {
     "name": "Y11 4/128 PACK",
     "brand": "Vivo",
     "price": 18250,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg",
+    "slug": "vivo-y11-4-128-pack"
   },
   {
     "name": "Y21 4/64 ACT",
     "brand": "Vivo",
     "price": 17100,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg",
+    "slug": "vivo-y21-4-64-act"
   },
   {
     "name": "Y21 4/64 PACK",
     "brand": "Vivo",
     "price": 17200,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg",
+    "slug": "vivo-y21-4-64-pack"
   },
   {
     "name": "Y21 4/128 ACT",
     "brand": "Vivo",
     "price": 18800,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg",
+    "slug": "vivo-y21-4-128-act"
   },
   {
     "name": "Y21 4/128 PACK",
     "brand": "Vivo",
     "price": 19100,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg",
+    "slug": "vivo-y21-4-128-pack"
   },
   {
     "name": "Y21 6/128 ACT",
     "brand": "Vivo",
     "price": 21700,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg",
+    "slug": "vivo-y21-6-128-act"
   },
   {
     "name": "Y21 6/128 PACK",
     "brand": "Vivo",
     "price": 22900,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg",
+    "slug": "vivo-y21-6-128-pack"
   },
   {
     "name": "Y31 4/128 PACK",
     "brand": "Vivo",
     "price": 22900,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg",
+    "slug": "vivo-y31-4-128-pack"
   },
   {
     "name": "Y51 PRO 8/128 ACT",
     "brand": "Vivo",
     "price": 25000,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg",
+    "slug": "vivo-y51-pro-8-128-act"
   },
   {
     "name": "Y51 PRO 8/128 PACK",
     "brand": "Vivo",
     "price": 27200,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg",
+    "slug": "vivo-y51-pro-8-128-pack"
   },
   {
     "name": "Y51 PRO 8/256 ACT",
     "brand": "Vivo",
     "price": 28800,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg",
+    "slug": "vivo-y51-pro-8-256-act"
   },
   {
     "name": "Y51 PRO 8/256 PACK",
     "brand": "Vivo",
     "price": 31000,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg",
+    "slug": "vivo-y51-pro-8-256-pack"
   },
   {
     "name": "Y400 8/128 PACK",
     "brand": "Vivo",
     "price": 28500,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/25/07/vivo-y400-ofic/inline/-x330/gsmarena_004.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/25/07/vivo-y400-ofic/inline/-x330/gsmarena_004.jpg",
+    "slug": "vivo-y400-8-128-pack"
   },
   {
     "name": "T4X 6/128",
     "brand": "Vivo",
     "price": 23000,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/25/03/vivo-t4x-ofic/inline/-1200/gsmarena_001.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/25/03/vivo-t4x-ofic/inline/-1200/gsmarena_001.jpg",
+    "slug": "vivo-t4x-6-128"
   },
   {
     "name": "T4X 8/256",
     "brand": "Vivo",
     "price": 26700,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/25/03/vivo-t4x-ofic/inline/-1200/gsmarena_001.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/25/03/vivo-t4x-ofic/inline/-1200/gsmarena_001.jpg",
+    "slug": "vivo-t4x-8-256"
   },
   {
     "name": "T4 LITE 4/64",
     "brand": "Vivo",
     "price": 15650,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg",
+    "slug": "vivo-t4-lite-4-64"
   },
   {
     "name": "T4 LITE 4/128",
     "brand": "Vivo",
     "price": 17300,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg",
+    "slug": "vivo-t4-lite-4-128"
   },
   {
     "name": "T4 LITE 6/128",
     "brand": "Vivo",
     "price": 20500,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg",
+    "slug": "vivo-t4-lite-6-128"
   },
   {
     "name": "T4R 12/256",
     "brand": "Vivo",
     "price": 32350,
     "stock": "In Stock",
-    "image": "https://cdn.findprix.com/images/products/XqM1BQBbb.webp"
+    "image": "https://cdn.findprix.com/images/products/XqM1BQBbb.webp",
+    "slug": "vivo-t4r-12-256"
   },
   {
     "name": "T4 8/128",
     "brand": "Vivo",
     "price": 29500,
     "stock": "In Stock",
-    "image": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-t4-2.jpg"
+    "image": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-t4-2.jpg",
+    "slug": "vivo-t4-8-128"
   },
   {
     "name": "T4 8/256",
     "brand": "Vivo",
     "price": 31000,
     "stock": "In Stock",
-    "image": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-t4-2.jpg"
+    "image": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-t4-2.jpg",
+    "slug": "vivo-t4-8-256"
   },
   {
     "name": "T5 LITE 4/64",
     "brand": "Vivo",
     "price": 17300,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg",
+    "slug": "vivo-t5-lite-4-64"
   },
   {
     "name": "T5 LITE 4/128",
     "brand": "Vivo",
     "price": 19200,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg",
+    "slug": "vivo-t5-lite-4-128"
   },
   {
     "name": "T5 LITE 6/128",
     "brand": "Vivo",
     "price": 21500,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg",
+    "slug": "vivo-t5-lite-6-128"
   },
   {
     "name": "T5 LITE 6/256",
     "brand": "Vivo",
     "price": 24500,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg",
+    "slug": "vivo-t5-lite-6-256"
   },
   {
     "name": "T5X 6/128",
     "brand": "Vivo",
     "price": 24700,
     "stock": "In Stock",
-    "image": "https://cdn.beebom.com/mobile/vivo-t5x-front-back.png"
+    "image": "https://cdn.beebom.com/mobile/vivo-t5x-front-back.png",
+    "slug": "vivo-t5x-6-128"
   },
   {
     "name": "T5X 8/128",
     "brand": "Vivo",
     "price": 27000,
     "stock": "In Stock",
-    "image": "https://cdn.beebom.com/mobile/vivo-t5x-front-back.png"
+    "image": "https://cdn.beebom.com/mobile/vivo-t5x-front-back.png",
+    "slug": "vivo-t5x-8-128"
   },
   {
     "name": "T5X 8/256",
     "brand": "Vivo",
     "price": 29300,
     "stock": "In Stock",
-    "image": "https://cdn.beebom.com/mobile/vivo-t5x-front-back.png"
+    "image": "https://cdn.beebom.com/mobile/vivo-t5x-front-back.png",
+    "slug": "vivo-t5x-8-256"
   },
   {
     "name": "T5 PRO 8/128",
     "brand": "Vivo",
     "price": 33000,
     "stock": "In Stock",
-    "image": "https://xiaomiui.net/wp-content/uploads/2026/04/Vivo-T5-Pro-debuts-with-game-focused-specs-including-Ultra-Game-Mode-vapor-chamber-more.png"
+    "image": "https://xiaomiui.net/wp-content/uploads/2026/04/Vivo-T5-Pro-debuts-with-game-focused-specs-including-Ultra-Game-Mode-vapor-chamber-more.png",
+    "slug": "vivo-t5-pro-8-128"
   },
   {
     "name": "T5 PRO 8/256",
     "brand": "Vivo",
     "price": 38500,
     "stock": "In Stock",
-    "image": "https://xiaomiui.net/wp-content/uploads/2026/04/Vivo-T5-Pro-debuts-with-game-focused-specs-including-Ultra-Game-Mode-vapor-chamber-more.png"
+    "image": "https://xiaomiui.net/wp-content/uploads/2026/04/Vivo-T5-Pro-debuts-with-game-focused-specs-including-Ultra-Game-Mode-vapor-chamber-more.png",
+    "slug": "vivo-t5-pro-8-256"
   },
   {
     "name": "V70 FE 8/128 ACT",
     "brand": "Vivo",
     "price": 31600,
     "stock": "In Stock",
-    "image": "https://in-exstatic-vivofs.vivo.com/gdHFRinHEMrj3yPG/activity/1775043328921/zip/img/vivo-v70-fe-lg-x2.jpg"
+    "image": "https://in-exstatic-vivofs.vivo.com/gdHFRinHEMrj3yPG/activity/1775043328921/zip/img/vivo-v70-fe-lg-x2.jpg",
+    "slug": "vivo-v70-fe-8-128-act"
   },
   {
     "name": "V70 FE 8/128 PACK",
     "brand": "Vivo",
     "price": 33100,
     "stock": "In Stock",
-    "image": "https://in-exstatic-vivofs.vivo.com/gdHFRinHEMrj3yPG/activity/1775043328921/zip/img/vivo-v70-fe-lg-x2.jpg"
+    "image": "https://in-exstatic-vivofs.vivo.com/gdHFRinHEMrj3yPG/activity/1775043328921/zip/img/vivo-v70-fe-lg-x2.jpg",
+    "slug": "vivo-v70-fe-8-128-pack"
   },
   {
     "name": "V70 FE 8/256 PACK",
     "brand": "Vivo",
     "price": 37300,
     "stock": "In Stock",
-    "image": "https://in-exstatic-vivofs.vivo.com/gdHFRinHEMrj3yPG/activity/1775043328921/zip/img/vivo-v70-fe-lg-x2.jpg"
+    "image": "https://in-exstatic-vivofs.vivo.com/gdHFRinHEMrj3yPG/activity/1775043328921/zip/img/vivo-v70-fe-lg-x2.jpg",
+    "slug": "vivo-v70-fe-8-256-pack"
   },
   {
     "name": "V70 FE 12/256 PACK",
     "brand": "Vivo",
     "price": 40600,
     "stock": "In Stock",
-    "image": "https://in-exstatic-vivofs.vivo.com/gdHFRinHEMrj3yPG/activity/1775043328921/zip/img/vivo-v70-fe-lg-x2.jpg"
+    "image": "https://in-exstatic-vivofs.vivo.com/gdHFRinHEMrj3yPG/activity/1775043328921/zip/img/vivo-v70-fe-lg-x2.jpg",
+    "slug": "vivo-v70-fe-12-256-pack"
   },
   {
     "name": "V70 FE 12/256 ACT",
     "brand": "Vivo",
     "price": 38000,
     "stock": "In Stock",
-    "image": "https://in-exstatic-vivofs.vivo.com/gdHFRinHEMrj3yPG/activity/1775043328921/zip/img/vivo-v70-fe-lg-x2.jpg"
+    "image": "https://in-exstatic-vivofs.vivo.com/gdHFRinHEMrj3yPG/activity/1775043328921/zip/img/vivo-v70-fe-lg-x2.jpg",
+    "slug": "vivo-v70-fe-12-256-act"
   },
   {
     "name": "V70 ELITE 8/256 ACT",
     "brand": "Vivo",
     "price": 47000,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg",
+    "slug": "vivo-v70-elite-8-256-act"
   },
   {
     "name": "V70 8/256 ACT",
     "brand": "Vivo",
     "price": 44500,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/23/11/vivo-x100-camera-samples/inline/-1200/gsmarena_001.jpg",
+    "slug": "vivo-v70-8-256-act"
   },
   {
     "name": "S2 8/128 ACT",
     "brand": "Vivo",
     "price": 31000,
     "stock": "In Stock",
-    "image": "https://cdn1.smartprix.com/rx-iL7r8I2Lp-w1200-h1200/vivo-v21e-5g.jpg"
+    "image": "https://cdn1.smartprix.com/rx-iL7r8I2Lp-w1200-h1200/vivo-v21e-5g.jpg",
+    "slug": "vivo-s2-8-128-act"
   },
   {
     "name": "S2 8/128 PACK",
     "brand": "Vivo",
     "price": 33100,
     "stock": "In Stock",
-    "image": "https://cdn1.smartprix.com/rx-iL7r8I2Lp-w1200-h1200/vivo-v21e-5g.jpg"
+    "image": "https://cdn1.smartprix.com/rx-iL7r8I2Lp-w1200-h1200/vivo-v21e-5g.jpg",
+    "slug": "vivo-s2-8-128-pack"
   },
   {
     "name": "S2 8/256 ACT",
     "brand": "Vivo",
     "price": 35000,
     "stock": "In Stock",
-    "image": "https://cdn1.smartprix.com/rx-iL7r8I2Lp-w1200-h1200/vivo-v21e-5g.jpg"
+    "image": "https://cdn1.smartprix.com/rx-iL7r8I2Lp-w1200-h1200/vivo-v21e-5g.jpg",
+    "slug": "vivo-s2-8-256-act"
   },
   {
     "name": "S2 8/256 PACK",
     "brand": "Vivo",
     "price": 38700,
     "stock": "In Stock",
-    "image": "https://cdn1.smartprix.com/rx-iL7r8I2Lp-w1200-h1200/vivo-v21e-5g.jpg"
+    "image": "https://cdn1.smartprix.com/rx-iL7r8I2Lp-w1200-h1200/vivo-v21e-5g.jpg",
+    "slug": "vivo-s2-8-256-pack"
   },
   {
     "name": "X300 FE 8/256 PACK",
     "brand": "Vivo",
     "price": 61500,
     "stock": "In Stock",
-    "image": "https://cdn.beebom.com/mobile/vivo-x300-fe-front-back-2.png"
+    "image": "https://cdn.beebom.com/mobile/vivo-x300-fe-front-back-2.png",
+    "slug": "vivo-x300-fe-8-256-pack"
   },
   {
     "name": "X300 FE 12/256 ACT",
     "brand": "Vivo",
     "price": 64500,
     "stock": "In Stock",
-    "image": "https://cdn.beebom.com/mobile/vivo-x300-fe-front-back-2.png"
+    "image": "https://cdn.beebom.com/mobile/vivo-x300-fe-front-back-2.png",
+    "slug": "vivo-x300-fe-12-256-act"
   },
   {
     "name": "X300 FE 12/256 PACK",
     "brand": "Vivo",
     "price": 68000,
     "stock": "In Stock",
-    "image": "https://cdn.beebom.com/mobile/vivo-x300-fe-front-back-2.png"
+    "image": "https://cdn.beebom.com/mobile/vivo-x300-fe-front-back-2.png",
+    "slug": "vivo-x300-fe-12-256-pack"
   },
   {
     "name": "X300 FE 12/512 ACT",
     "brand": "Vivo",
     "price": 72000,
     "stock": "In Stock",
-    "image": "https://cdn.beebom.com/mobile/vivo-x300-fe-front-back-2.png"
+    "image": "https://cdn.beebom.com/mobile/vivo-x300-fe-front-back-2.png",
+    "slug": "vivo-x300-fe-12-512-act"
   },
   {
     "name": "F30 4/64",
     "brand": "Zeno",
     "price": 12150,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "zeno-f30-4-64"
   },
   {
     "name": "F30 4/128",
     "brand": "Zeno",
     "price": 13150,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "zeno-f30-4-128"
   },
   {
     "name": "X50 6/128",
     "brand": "Zeno",
     "price": 14100,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "zeno-x50-6-128"
   },
   {
     "name": "Nothing 65W USB",
     "brand": "Accessories",
     "price": 600,
     "stock": "In Stock",
-    "image": ""
+    "image": "",
+    "slug": "accessories-nothing-65w-usb"
   },
   {
     "name": "Samsung 25W USB",
     "brand": "Accessories",
     "price": 525,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg",
+    "slug": "accessories-samsung-25w-usb"
   },
   {
     "name": "Samsung 25W USB WITH CABLE",
     "brand": "Accessories",
     "price": 675,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg",
+    "slug": "accessories-samsung-25w-usb-with-cable"
   },
   {
     "name": "Samsung 45W USB",
     "brand": "Accessories",
     "price": 925,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg",
+    "slug": "accessories-samsung-45w-usb"
   },
   {
     "name": "Samsung 45W USB WITH CABLE",
     "brand": "Accessories",
     "price": 1125,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg",
+    "slug": "accessories-samsung-45w-usb-with-cable"
   },
   {
     "name": "Samsung USB TO TYPE-C",
     "brand": "Accessories",
     "price": 275,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg",
+    "slug": "accessories-samsung-usb-to-type-c"
   },
   {
     "name": "Samsung TYPE-C TO TYPE-C",
     "brand": "Accessories",
     "price": 275,
     "stock": "In Stock",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg"
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-952x498w6/gsmarena_000.jpg",
+    "slug": "accessories-samsung-type-c-to-type-c"
   },
   {
     "name": "Apple USB TO LIGHTNING CABLE",
     "brand": "Accessories",
     "price": 575,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "accessories-apple-usb-to-lightning-cable"
   },
   {
     "name": "Apple USB TO TYPE-C CABLE",
     "brand": "Accessories",
     "price": 600,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "accessories-apple-usb-to-type-c-cable"
   },
   {
     "name": "Apple 20W USB CHARGER",
     "brand": "Accessories",
     "price": 750,
     "stock": "In Stock",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/apple-certified-refurbished-seg-202206?wid=984&amp;hei=960&amp;fmt=png-alpha&amp;.v=RlVTbFY4KzJXaTE4Mm9FQnhJZVA4dzg5NmFwM0FKaWsrUGs4aG9mZUg4RGR4cng2OEFTc0FqWXIrVlFkdzVMSS9abG9ESkZvY0lTR2xxK24vQVZ4ZWQ1VlJ3Zjk1ZWVDM0MxdTBnQ0MxVFVGbEp0YUFGR2x4T05Ib1hJR1k3Z2k",
+    "slug": "accessories-apple-20w-usb-charger"
   },
   {
     "name": "OnePlus 3R",
     "brand": "Accessories",
     "price": 1550,
     "stock": "In Stock",
-    "image": "https://image01-in.oneplus.net/media/202412/19/e648ec380d54bbe49bc3d4e51cc3b2f9.png?x-amz-process=image/format,webp/quality,Q_80"
+    "image": "https://image01-in.oneplus.net/media/202412/19/e648ec380d54bbe49bc3d4e51cc3b2f9.png?x-amz-process=image/format,webp/quality,Q_80",
+    "slug": "accessories-oneplus-3r"
   },
   {
     "name": "Redmi 10000 MAH",
     "brand": "Accessories",
     "price": 1130,
     "stock": "In Stock",
-    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png"
+    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png",
+    "slug": "accessories-redmi-10000-mah"
   },
   {
     "name": "Redmi 20000 MAH",
     "brand": "Accessories",
     "price": 1830,
     "stock": "In Stock",
-    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png"
+    "image": "https://i02.appmifile.com/180_operatorx_operatorx_opx/15/06/2023/32cd73d5451f1a9b26d439b30f7cef7d.png",
+    "slug": "accessories-redmi-20000-mah"
   }
 ]

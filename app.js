@@ -94,44 +94,158 @@ function placeholderNode() {
   return div;
 }
 
-function buildCard(phone) {
-  const card = document.createElement("article");
-  card.className = "card";
+const IMG_EXTS = ["jpg", "jpeg", "png", "webp", "avif"];
+const MAX_SLIDES = 6;
 
+function slugify(s) {
+  return String(s || "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
+function productSlug(phone) {
+  return phone.slug || slugify((phone.brand || "") + " " + (phone.name || ""));
+}
+
+function imageDir() {
+  return CFG.IMAGES_DIR || "images/";
+}
+
+function explicitSources(phone) {
+  const out = [];
+  const add = v => {
+    if (v && String(v).trim()) out.push(String(v).trim());
+  };
+  if (Array.isArray(phone.images)) phone.images.forEach(add);
+  else if (typeof phone.images === "string") phone.images.split(/[|,]/).forEach(add);
+  add(phone.image);
+  return out;
+}
+
+function candidatesFor(src) {
+  const dir = imageDir();
+  if (/^(https?:|data:)/i.test(src)) return [src];
+  if (src.indexOf("/") > -1) return [src];
+  if (/\.[a-z0-9]+$/i.test(src)) return [dir + src];
+  return IMG_EXTS.map(e => dir + src + "." + e);
+}
+
+function makeImg(phone) {
+  const img = document.createElement("img");
+  img.alt = (phone.name || "") + " photo";
+  img.loading = "lazy";
+  img.decoding = "async";
+  img.width = 400;
+  img.height = 400;
+  img.referrerPolicy = "no-referrer";
+  return img;
+}
+
+function probeImage(img, candidates, onOk, onFail) {
+  let i = 0;
+  img.onload = () => onOk(img);
+  img.onerror = () => {
+    i += 1;
+    if (i < candidates.length) img.src = candidates[i];
+    else onFail();
+  };
+  img.src = candidates[0];
+}
+
+function buildMedia(phone) {
   const media = document.createElement("div");
   media.className = "card-media";
 
-  const href = String(phone.link || phone.image || "").trim();
-  const hit = document.createElement(href ? "a" : "div");
-  if (href) {
-    hit.className = "media-link";
-    hit.href = href;
-    hit.target = "_blank";
-    hit.rel = "noopener noreferrer";
-    hit.setAttribute("aria-label", (phone.name || "") + " \u2014 open link");
-  } else {
-    hit.className = "media-plain";
+  const scroller = document.createElement("div");
+  scroller.className = "media-scroller";
+  media.appendChild(scroller);
+
+  const dots = document.createElement("div");
+  dots.className = "media-dots";
+  media.appendChild(dots);
+
+  const href = String(phone.link || "").trim();
+  const slides = [];
+
+  function addSlide(img) {
+    const slide = document.createElement(href ? "a" : "div");
+    slide.className = "media-slide";
+    if (href) {
+      slide.href = href;
+      slide.target = "_blank";
+      slide.rel = "noopener noreferrer";
+      slide.setAttribute("aria-label", (phone.name || "") + " \u2014 open link");
+    }
+    slide.appendChild(img);
+    scroller.appendChild(slide);
+    slides.push(slide);
+    updateDots();
   }
 
-  if (phone.image) {
-    const img = document.createElement("img");
-    img.src = phone.image;
-    img.alt = (phone.name || "") + " photo";
-    img.loading = "lazy";
-    img.decoding = "async";
-    img.width = 400;
-    img.height = 400;
-    img.referrerPolicy = "no-referrer";
-    img.onerror = () => {
-      const ph = placeholderNode();
-      if (img.parentNode) img.parentNode.replaceChild(ph, img);
-    };
-    hit.appendChild(img);
-  } else {
-    hit.appendChild(placeholderNode());
+  function addPlaceholder() {
+    const slide = document.createElement("div");
+    slide.className = "media-slide";
+    slide.appendChild(placeholderNode());
+    scroller.appendChild(slide);
+    slides.push(slide);
+    updateDots();
   }
 
-  media.appendChild(hit);
+  function updateDots() {
+    dots.innerHTML = "";
+    if (slides.length < 2) {
+      dots.style.display = "none";
+      return;
+    }
+    dots.style.display = "flex";
+    slides.forEach((s, idx) => {
+      const d = document.createElement("button");
+      d.type = "button";
+      d.className = "media-dot" + (idx === 0 ? " active" : "");
+      d.setAttribute("aria-label", "Image " + (idx + 1));
+      d.addEventListener("click", () => {
+        scroller.scrollTo({ left: idx * scroller.clientWidth, behavior: "smooth" });
+      });
+      dots.appendChild(d);
+    });
+  }
+
+  scroller.addEventListener("scroll", () => {
+    if (slides.length < 2) return;
+    const idx = Math.round(scroller.scrollLeft / Math.max(1, scroller.clientWidth));
+    const ds = dots.children;
+    for (let k = 0; k < ds.length; k++) {
+      ds[k].classList.toggle("active", k === idx);
+    }
+  }, { passive: true });
+
+  const explicit = explicitSources(phone);
+  if (explicit.length) {
+    explicit.forEach(src => {
+      const img = makeImg(phone);
+      probeImage(img, candidatesFor(src), ok => addSlide(ok), () => addPlaceholder());
+    });
+  } else {
+    const slug = productSlug(phone);
+    let found = 0;
+    let n = 1;
+    (function step() {
+      const base = n === 1 ? slug : slug + "-" + n;
+      const cands = IMG_EXTS.map(e => imageDir() + base + "." + e);
+      const img = makeImg(phone);
+      probeImage(img, cands, ok => {
+        addSlide(ok);
+        found += 1;
+        if (n < MAX_SLIDES) {
+          n += 1;
+          step();
+        }
+      }, () => {
+        if (found === 0) addPlaceholder();
+      });
+    })();
+  }
 
   if (href) {
     const cue = document.createElement("span");
@@ -147,6 +261,15 @@ function buildCard(phone) {
     badge.textContent = phone.brand;
     media.appendChild(badge);
   }
+
+  return media;
+}
+
+function buildCard(phone) {
+  const card = document.createElement("article");
+  card.className = "card";
+
+  const media = buildMedia(phone);
 
   const body = document.createElement("div");
   body.className = "card-body";
