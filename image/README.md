@@ -27,6 +27,17 @@ image/Poco/M7 6-128 PACK/2.jpg
 - Any of `.jpg .jpeg .png .webp .avif .gif` works; no need to convert.
 - Images are ordered by filename (`1`, `2`, `3`, … `10` sorts correctly).
 
+## Optimize before pushing
+
+Large originals are slow on mobile data. Compress everything first:
+
+```
+python optimize-images.py
+```
+
+It resizes each image to fit within 700×700 and saves it as a compressed JPEG
+(~20–30 KB), overwriting the original. Run it whenever you add new photos.
+
 ## Matching rules (forgiving)
 
 - Folder names are matched to the product by **brand + product name**, ignoring
