@@ -3,7 +3,9 @@ window.SITE_CONFIG = {
   CURRENCY: "\u20B9",
   DATA_SOURCE: "json",
   JSON_URL: "phones.json",
-  IMAGES_DIR: "images/",
+  IMAGES_DIR: "image/",
+  REPO: "Jeet1309/Phone_web",
+  REPO_BRANCH: "main",
   SHEET_ID: "",
   API_KEY: "",
   SHEET_RANGE: "Sheet1!A:F"

@@ -47,7 +47,6 @@ A list of objects. All fields optional except keeping the structure:
     "brand": "Apple",
     "price": 129900,
     "stock": "In Stock",
-    "image": "images/iphone-15-pro.jpg",
     "link": "https://wa.me/919157757157?text=iPhone%2015%20Pro"
   }
 ]
@@ -55,15 +54,23 @@ A list of objects. All fields optional except keeping the structure:
 
 - `price` should be a number.
 - `stock`: `In Stock` or `Out of Stock` (anything with "out" shows as Out of Stock).
-- `image`: leave empty (`""`) to show a phone placeholder.
-- `link`: optional. When set, **tapping the product image opens this link** in a new tab (e.g. a WhatsApp order link, product page, or the photo itself). If omitted, the image links to the image URL; if there is no image either, the card is not clickable.
+- `link`: optional. When set, **tapping the product image opens this link** in a new tab (e.g. a WhatsApp order link, product page, or the photo itself).
+- `image` / `images`: optional override. Normally leave these out — images are loaded from the folder (below).
 
-### Where to host your images (important)
+### Product images: the `image/` folder (recommended)
 
-**Put your images in this repo** in an `images/` folder and reference them with a relative path, e.g. `"image": "images/iphone-15-pro.jpg"`.
+Put photos in this repo under `image/<Brand>/<Product>/`, e.g.:
 
-- ✅ **Best**: free, reliable, same-origin with the site (no hotlink blocking), versioned with your data.
-- Optimize first: resize to ~700px wide and compress (JPEG/WebP ~80%). ~100–200 KB per image keeps the repo small (a few hundred images = well under 100 MB) and loads fast on mobile data.
+```
+image/Poco/M7 6-128 PACK/1.jpg
+image/Poco/M7 6-128 PACK/2.jpg
+```
+
+- **No JSON edits needed** — the site reads the folder automatically and shows **all** images in each product folder.
+- 2 images → the card becomes a swipeable strip with dots.
+- Folder names match the product by brand + product name, ignoring case/spaces/punctuation (a `/` in a name becomes `-`). See `image/README.md`.
+- ✅ **Best place to host**: free, reliable, same-origin (no hotlink blocking), versioned with your data.
+- Optimize first: resize to ~700px wide and compress (JPEG/WebP ~80%). ~100–200 KB each keeps the repo small and loads fast on mobile data.
 - ⚠️ External hotlinks (GSMArena, etc.) work but break over time — use only as a fallback.
 - ❌ **Do not use Google Drive**: it is not an image CDN. `uc?export=view` links get rate-limited ("too many requests"), break, and load slowly.
 - For thousands of large images, use a real image CDN (Cloudinary free tier, Cloudflare R2, or jsDelivr over the repo).

@@ -26,7 +26,8 @@ const state = {
   query: "",
   activeBrand: "All",
   sort: "featured",
-  lang: "hi"
+  lang: "hi",
+  imageTree: null
 };
 
 try {
@@ -95,21 +96,13 @@ function placeholderNode() {
 }
 
 const IMG_EXTS = ["jpg", "jpeg", "png", "webp", "avif"];
-const MAX_SLIDES = 6;
 
-function slugify(s) {
-  return String(s || "")
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, "-")
-    .replace(/^-+|-+$/g, "");
-}
-
-function productSlug(phone) {
-  return phone.slug || slugify((phone.brand || "") + " " + (phone.name || ""));
+function normKey(s) {
+  return String(s || "").toLowerCase().replace(/[^a-z0-9]+/g, "");
 }
 
 function imageDir() {
-  return CFG.IMAGES_DIR || "images/";
+  return CFG.IMAGES_DIR || "image/";
 }
 
 function explicitSources(phone) {
@@ -126,9 +119,52 @@ function explicitSources(phone) {
 function candidatesFor(src) {
   const dir = imageDir();
   if (/^(https?:|data:)/i.test(src)) return [src];
-  if (src.indexOf("/") > -1) return [src];
-  if (/\.[a-z0-9]+$/i.test(src)) return [dir + src];
-  return IMG_EXTS.map(e => dir + src + "." + e);
+  if (src.indexOf("/") > -1) return [encodeURI(src)];
+  if (/\.[a-z0-9]+$/i.test(src)) return [encodeURI(dir + src)];
+  return IMG_EXTS.map(e => encodeURI(dir + src + "." + e));
+}
+
+function productKey(phone) {
+  return normKey(phone.brand) + "|" + normKey(phone.name);
+}
+
+async function loadImageTree() {
+  const repo = CFG.REPO;
+  if (!repo) return {};
+  const branch = CFG.REPO_BRANCH || "main";
+  const url = "https://api.github.com/repos/" + repo + "/git/trees/" + branch + "?recursive=1";
+  const res = await fetch(url);
+  if (!res.ok) throw new Error("tree " + res.status);
+  const data = await res.json();
+  const map = {};
+  for (const node of (data.tree || [])) {
+    if (node.type !== "blob") continue;
+    const parts = node.path.split("/");
+    if (parts.length < 4) continue;
+    if (parts[0] !== "image" && parts[0] !== "images") continue;
+    if (!/\.(jpe?g|png|webp|avif|gif)$/i.test(parts[parts.length - 1])) continue;
+    const key = normKey(parts[1]) + "|" + normKey(parts[2]);
+    (map[key] = map[key] || []).push(node.path);
+  }
+  for (const k in map) {
+    map[k].sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
+  }
+  return map;
+}
+
+async function getImageTree(force) {
+  const TTL = 5 * 60 * 1000;
+  if (!force) {
+    try {
+      const cached = JSON.parse(localStorage.getItem("phoneweb_tree") || "null");
+      if (cached && cached.t && (Date.now() - cached.t) < TTL && cached.m) return cached.m;
+    } catch (e) {}
+  }
+  const m = await loadImageTree();
+  try {
+    localStorage.setItem("phoneweb_tree", JSON.stringify({ t: Date.now(), m }));
+  } catch (e) {}
+  return m;
 }
 
 function makeImg(phone) {
@@ -221,30 +257,20 @@ function buildMedia(phone) {
   }, { passive: true });
 
   const explicit = explicitSources(phone);
+  let sources = [];
   if (explicit.length) {
-    explicit.forEach(src => {
+    sources = explicit;
+  } else if (state.imageTree) {
+    sources = state.imageTree[productKey(phone)] || [];
+  }
+
+  if (sources.length) {
+    sources.forEach(src => {
       const img = makeImg(phone);
       probeImage(img, candidatesFor(src), ok => addSlide(ok), () => addPlaceholder());
     });
   } else {
-    const slug = productSlug(phone);
-    let found = 0;
-    let n = 1;
-    (function step() {
-      const base = n === 1 ? slug : slug + "-" + n;
-      const cands = IMG_EXTS.map(e => imageDir() + base + "." + e);
-      const img = makeImg(phone);
-      probeImage(img, cands, ok => {
-        addSlide(ok);
-        found += 1;
-        if (n < MAX_SLIDES) {
-          n += 1;
-          step();
-        }
-      }, () => {
-        if (found === 0) addPlaceholder();
-      });
-    })();
+    addPlaceholder();
   }
 
   if (href) {
@@ -534,7 +560,7 @@ async function fetchFromSheet() {
   return parseRows(data.values || []);
 }
 
-async function load() {
+async function load(force) {
   if (!isLiveMode) {
     state.phones = DEMO_PHONES.slice();
     el.modeBadge.textContent = t("demo");
@@ -562,6 +588,12 @@ async function load() {
     }
   }
 
+  try {
+    state.imageTree = await getImageTree(force);
+  } catch (e) {
+    state.imageTree = {};
+  }
+
   renderBrandList();
   render(true);
   el.lastUpdated.textContent = t("updated") + " " + new Date().toLocaleString();
@@ -578,7 +610,7 @@ el.sort.addEventListener("change", () => {
 });
 
 el.refresh.addEventListener("click", () => {
-  load();
+  load(true);
 });
 
 el.loadMore.addEventListener("click", loadMore);
