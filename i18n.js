@@ -1,6 +1,7 @@
 window.I18N = {
   hi: {
     langName: "हिंदी",
+    langToggle: "English",
     tagline: "हर फ़ोन की लाइव कीमत, एक ही जगह",
     searchPlaceholder: "फ़ोन का नाम या ब्रांड खोजें...",
     refresh: "रिफ़्रेश",
@@ -29,6 +30,7 @@ window.I18N = {
   },
   en: {
     langName: "English",
+    langToggle: "हिंदी",
     tagline: "Live phone prices, all in one place",
     searchPlaceholder: "Search phone name or brand...",
     refresh: "Refresh",

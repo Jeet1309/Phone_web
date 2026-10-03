@@ -88,10 +88,17 @@ function formatPrice(n) {
   return CFG.CURRENCY + num.toLocaleString("en-IN");
 }
 
+const PLACEHOLDER_SVG =
+  '<svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" ' +
+  'stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round">' +
+  '<rect x="6" y="2.5" width="12" height="19" rx="2.6"/>' +
+  '<line x1="10.5" y1="18.6" x2="13.5" y2="18.6"/>' +
+  "</svg>";
+
 function placeholderNode() {
   const div = document.createElement("div");
   div.className = "placeholder";
-  div.textContent = "📱";
+  div.innerHTML = PLACEHOLDER_SVG;
   return div;
 }
 
@@ -105,14 +112,13 @@ function imageDir() {
   return CFG.IMAGES_DIR || "image/";
 }
 
-function explicitSources(phone) {
+function arraySources(phone) {
   const out = [];
   const add = v => {
     if (v && String(v).trim()) out.push(String(v).trim());
   };
   if (Array.isArray(phone.images)) phone.images.forEach(add);
   else if (typeof phone.images === "string") phone.images.split(/[|,]/).forEach(add);
-  add(phone.image);
   return out;
 }
 
@@ -178,17 +184,6 @@ function makeImg(phone) {
   return img;
 }
 
-function probeImage(img, candidates, onOk, onFail) {
-  let i = 0;
-  img.onload = () => onOk(img);
-  img.onerror = () => {
-    i += 1;
-    if (i < candidates.length) img.src = candidates[i];
-    else onFail();
-  };
-  img.src = candidates[0];
-}
-
 function buildMedia(phone) {
   const media = document.createElement("div");
   media.className = "card-media";
@@ -204,7 +199,7 @@ function buildMedia(phone) {
   const href = String(phone.link || "").trim();
   const slides = [];
 
-  function addSlide(img) {
+  function addImageSlide(src) {
     const slide = document.createElement(href ? "a" : "div");
     slide.className = "media-slide";
     if (href) {
@@ -213,6 +208,22 @@ function buildMedia(phone) {
       slide.rel = "noopener noreferrer";
       slide.setAttribute("aria-label", (phone.name || "") + " \u2014 open link");
     }
+    const ph = placeholderNode();
+    slide.appendChild(ph);
+    const img = makeImg(phone);
+    img.className = "slide-img";
+    const cands = candidatesFor(src);
+    let i = 0;
+    img.onload = () => {
+      img.classList.add("loaded");
+      if (ph.parentNode) ph.remove();
+    };
+    img.onerror = () => {
+      i += 1;
+      if (i < cands.length) img.src = cands[i];
+      else if (img.parentNode) img.remove();
+    };
+    img.src = cands[0];
     slide.appendChild(img);
     scroller.appendChild(slide);
     slides.push(slide);
@@ -256,19 +267,19 @@ function buildMedia(phone) {
     }
   }, { passive: true });
 
-  const explicit = explicitSources(phone);
+  const arraySrc = arraySources(phone);
+  const treeSrc = state.imageTree ? state.imageTree[productKey(phone)] : null;
   let sources = [];
-  if (explicit.length) {
-    sources = explicit;
-  } else if (state.imageTree) {
-    sources = state.imageTree[productKey(phone)] || [];
+  if (arraySrc.length) {
+    sources = arraySrc;
+  } else if (treeSrc && treeSrc.length) {
+    sources = treeSrc;
+  } else if (phone.image && String(phone.image).trim()) {
+    sources = [String(phone.image).trim()];
   }
 
   if (sources.length) {
-    sources.forEach(src => {
-      const img = makeImg(phone);
-      probeImage(img, candidatesFor(src), ok => addSlide(ok), () => addPlaceholder());
-    });
+    sources.forEach(src => addImageSlide(src));
   } else {
     addPlaceholder();
   }

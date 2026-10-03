@@ -311,6 +311,7 @@ body {
 }
 
 .media-slide {
+  position: relative;
   flex: 0 0 100%;
   width: 100%;
   height: 100%;
@@ -321,11 +322,19 @@ body {
   text-decoration: none;
 }
 
-.media-slide img {
+.media-slide img.slide-img {
+  position: absolute;
+  inset: 0;
   width: 100%;
   height: 100%;
   object-fit: contain;
   padding: 16px;
+  opacity: 0;
+  transition: opacity 0.25s ease;
+}
+
+.media-slide img.slide-img.loaded {
+  opacity: 1;
 }
 
 .media-dots {
@@ -375,9 +384,16 @@ body {
 }
 
 .placeholder {
-  font-size: 58px;
-  line-height: 1;
-  opacity: 0.75;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #a9b4c8;
+  opacity: 0.9;
+}
+
+.placeholder svg {
+  width: 60px;
+  height: 60px;
 }
 
 .brand-badge {
